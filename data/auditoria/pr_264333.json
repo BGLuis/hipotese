@@ -1,0 +1,14 @@
+{
+  "method": "rest_timeline_complete",
+  "source": "https://api.github.com/repos/microsoft/vscode/issues/264333/timeline?per_page=100",
+  "events": [
+    {
+      "event": "reviewed",
+      "login": "lszomoru",
+      "type": "User",
+      "at": "2025-09-01T13:49:42Z",
+      "url": "https://github.com/microsoft/vscode/pull/264333#pullrequestreview-3173763537",
+      "body_excerpt": ""
+    }
+  ]
+}

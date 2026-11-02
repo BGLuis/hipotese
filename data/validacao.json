@@ -1,0 +1,11 @@
+{
+  "registros": 60,
+  "contagem_grupos": {
+    "B": 30,
+    "A": 30
+  },
+  "erros": [],
+  "validade_estrutural": true,
+  "meta_amostral_atingida": true,
+  "escopo": "Consistencia local com snapshots da API e evidencias HTML; nao prova causalidade nem ausencia de eventos removidos."
+}

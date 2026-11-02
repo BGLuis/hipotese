@@ -1,0 +1,22 @@
+{
+  "method": "rest_timeline_complete",
+  "source": "https://api.github.com/repos/microsoft/vscode/issues/264292/timeline?per_page=100",
+  "events": [
+    {
+      "event": "commented",
+      "login": "vs-code-engineering[bot]",
+      "type": "Bot",
+      "at": "2025-09-01T07:51:56Z",
+      "url": "https://github.com/microsoft/vscode/pull/264292#issuecomment-3241260482",
+      "body_excerpt": "⚠️ This PR originates from a fork. Due to security restrictions, pipelines from forks are no longer triggered automatically. [Learn more](https://learn.microsoft.com/en-us/azure/devops/pipelines/repos/github?view=azure-devops&tabs=yaml#comment-triggers).\n\nIf the changes appear safe, you can manually trigger the pipeline by commenting `/AzurePipelines run`."
+    },
+    {
+      "event": "reviewed",
+      "login": "bpasero",
+      "type": "User",
+      "at": "2025-09-01T08:07:37Z",
+      "url": "https://github.com/microsoft/vscode/pull/264292#pullrequestreview-3172566207",
+      "body_excerpt": ""
+    }
+  ]
+}

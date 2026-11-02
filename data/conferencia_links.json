@@ -1,0 +1,50 @@
+[
+  {
+    "numero_pr": "265373",
+    "grupo_esperado": "A",
+    "grupo_observado": "A",
+    "url": "https://github.com/microsoft/vscode/pull/265373",
+    "confere": true,
+    "sha256_html": "3908dc00425930cee3c050972b83e8a7e6a291166f76cd35354537be58b82add"
+  },
+  {
+    "numero_pr": "267117",
+    "grupo_esperado": "A",
+    "grupo_observado": "A",
+    "url": "https://github.com/microsoft/vscode/pull/267117",
+    "confere": true,
+    "sha256_html": "f86e1ac7845784629bc954f94cdc403652d065ff09eceb9a1d631abeb4fc82ef"
+  },
+  {
+    "numero_pr": "267252",
+    "grupo_esperado": "A",
+    "grupo_observado": "A",
+    "url": "https://github.com/microsoft/vscode/pull/267252",
+    "confere": true,
+    "sha256_html": "5796ab77bba00ca3a46855f37c9c245428e477fb6c5547bd787639a69db6240e"
+  },
+  {
+    "numero_pr": "264252",
+    "grupo_esperado": "B",
+    "grupo_observado": "B",
+    "url": "https://github.com/microsoft/vscode/pull/264252",
+    "confere": true,
+    "sha256_html": "20815d57579995714f186e18b41c0fbf2d459f39b9d20526a27990b5938ed882"
+  },
+  {
+    "numero_pr": "264355",
+    "grupo_esperado": "B",
+    "grupo_observado": "B",
+    "url": "https://github.com/microsoft/vscode/pull/264355",
+    "confere": true,
+    "sha256_html": "fd55e6f3262a58f521ac2a221a98ca32570bcd435a3303b530f6df04e13fc619"
+  },
+  {
+    "numero_pr": "264763",
+    "grupo_esperado": "B",
+    "grupo_observado": "B",
+    "url": "https://github.com/microsoft/vscode/pull/264763",
+    "confere": true,
+    "sha256_html": "56cd4920b67bbb89fa4ae106d5d841d4e716b29e162382906b78d7878f2fcd2a"
+  }
+]

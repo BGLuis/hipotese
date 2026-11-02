@@ -1,0 +1,18 @@
+{
+  "method": "html_positive",
+  "source": "https://github.com/microsoft/vscode/pull/267205",
+  "top_level_timeline_complete": true,
+  "review_nodes": 5,
+  "comment_nodes": 0,
+  "sha256_response": "cfc9e17957bb2f99581dd9d33e7fb1a079564e8e8d648b72a9391189de2a3ac2",
+  "events": [
+    {
+      "event": "reviewed",
+      "login": "copilot-pull-request-reviewer[bot]",
+      "type": "Bot",
+      "at": "2025-09-17T13:07:02Z",
+      "url": "https://github.com/microsoft/vscode/pull/267205#pullrequestreview-3234383368",
+      "body_excerpt": "Revisão formal publicada por aplicativo de revisão de código."
+    }
+  ]
+}

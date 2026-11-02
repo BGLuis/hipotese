@@ -1,0 +1,22 @@
+{
+  "method": "rest_timeline_complete",
+  "source": "https://api.github.com/repos/microsoft/vscode/issues/264469/timeline?per_page=100",
+  "events": [
+    {
+      "event": "reviewed",
+      "login": "chrmarti",
+      "type": "User",
+      "at": "2025-09-02T08:10:54Z",
+      "url": "https://github.com/microsoft/vscode/pull/264469#pullrequestreview-3175364780",
+      "body_excerpt": ""
+    },
+    {
+      "event": "reviewed",
+      "login": "justschen",
+      "type": "User",
+      "at": "2025-09-02T08:12:43Z",
+      "url": "https://github.com/microsoft/vscode/pull/264469#pullrequestreview-3175373167",
+      "body_excerpt": ""
+    }
+  ]
+}

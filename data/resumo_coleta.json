@@ -1,0 +1,42 @@
+{
+  "collected_at_utc": "2026-11-02T15:36:26.508827+00:00",
+  "config": {
+    "repository": "microsoft/vscode",
+    "created_from": "2025-09-01T00:00:00Z",
+    "created_before": "2025-10-01T00:00:00Z",
+    "merged_before": "2025-10-01T00:00:00Z",
+    "candidate_queries": [
+      "repo:microsoft/vscode is:pr is:merged created:2025-09-01..2025-09-30 merged:<2025-10-01 commenter:copilot-pull-request-reviewer[bot]",
+      "repo:microsoft/vscode is:pr is:merged created:2025-09-01..2025-09-30 merged:<2025-10-01 -commenter:copilot-pull-request-reviewer[bot]"
+    ],
+    "pages_per_query": 1,
+    "target_per_group": 30,
+    "order": "created_at asc, number asc",
+    "review_bots": [
+      "copilot-pull-request-reviewer"
+    ],
+    "administrative_bots": [
+      "github-actions",
+      "copy-pr-bot",
+      "codecov",
+      "coveralls",
+      "dependabot",
+      "renovate",
+      "pre-commit-ci",
+      "nv-gha-bot",
+      "rapids-bot",
+      "cla-assistant"
+    ]
+  },
+  "selected": {
+    "B": 30,
+    "A": 30
+  },
+  "examined": 131,
+  "decisions": {
+    "selecionado": 60,
+    "excluido": 6,
+    "nao_examinado": 65
+  },
+  "complete": true
+}

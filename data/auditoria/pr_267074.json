@@ -1,0 +1,26 @@
+{
+  "method": "html_positive",
+  "source": "https://github.com/microsoft/vscode/pull/267074",
+  "top_level_timeline_complete": true,
+  "review_nodes": 5,
+  "comment_nodes": 1,
+  "sha256_response": "e60f64ed15ae84cb8dea694d02dfd1737d388278090df9e39818aa6f0512a0dd",
+  "events": [
+    {
+      "event": "reviewed",
+      "login": "copilot-pull-request-reviewer[bot]",
+      "type": "Bot",
+      "at": "2025-09-16T16:38:16Z",
+      "url": "https://github.com/microsoft/vscode/pull/267074#pullrequestreview-3230848680",
+      "body_excerpt": "Revisão formal publicada por aplicativo de revisão de código."
+    },
+    {
+      "event": "commented",
+      "login": "vs-code-engineering[bot]",
+      "type": "Bot",
+      "at": "2025-09-16T16:39:55Z",
+      "url": "https://github.com/microsoft/vscode/pull/267074#issuecomment-3299552359",
+      "body_excerpt": "\n          ⚠️ This PR originates from a fork. Due to security restrictions, pipelines from forks are no longer triggered automatically. Learn more.\nIf the changes appear safe, you can manually trigger the pipeline by commenting /AzurePipelines run.\n\n      "
+    }
+  ]
+}

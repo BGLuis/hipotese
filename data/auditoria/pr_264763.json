@@ -1,0 +1,10 @@
+{
+  "method": "html_timeline_complete",
+  "source": "https://github.com/microsoft/vscode/pull/264763",
+  "top_level_timeline_complete": true,
+  "review_nodes": 4,
+  "comment_nodes": 0,
+  "sha256_response": "9d4c6b01f95995c950a84c30efdb084dee28bfdb24e765b2573f9260995bf0ef",
+  "events": [],
+  "fallback_reason": "Cota REST indisponivel; timeline publica sem paginacao pendente"
+}

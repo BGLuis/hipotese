@@ -1,0 +1,66 @@
+{
+  "method": "html_positive",
+  "source": "https://github.com/microsoft/vscode/pull/265373",
+  "top_level_timeline_complete": false,
+  "review_nodes": 22,
+  "comment_nodes": 17,
+  "sha256_response": "45f869acd52fb89835dc420238ee77a67d7ae6ff0516bb8f55323c9bc0c1bb3e",
+  "events": [
+    {
+      "event": "reviewed",
+      "login": "copilot-pull-request-reviewer[bot]",
+      "type": "Bot",
+      "at": "2025-09-22T17:06:54Z",
+      "url": "https://github.com/microsoft/vscode/pull/265373#pullrequestreview-3254113706",
+      "body_excerpt": "Revisão formal publicada por aplicativo de revisão de código."
+    },
+    {
+      "event": "reviewed",
+      "login": "copilot-pull-request-reviewer[bot]",
+      "type": "Bot",
+      "at": "2025-09-22T17:20:21Z",
+      "url": "https://github.com/microsoft/vscode/pull/265373#pullrequestreview-3254175883",
+      "body_excerpt": "Revisão formal publicada por aplicativo de revisão de código."
+    },
+    {
+      "event": "commented",
+      "login": "vs-code-engineering[bot]",
+      "type": "Bot",
+      "at": "2025-09-08T12:10:01Z",
+      "url": "https://github.com/microsoft/vscode/pull/265373#issuecomment-3265997540",
+      "body_excerpt": "\n          ⚠️ This PR originates from a fork. Due to security restrictions, pipelines from forks are no longer triggered automatically. Learn more.\nIf the changes appear safe, you can manually trigger the pipeline by commenting /AzurePipelines run.\n\n      "
+    },
+    {
+      "event": "commented",
+      "login": "vs-code-engineering[bot]",
+      "type": "Bot",
+      "at": "2025-09-09T19:40:19Z",
+      "url": "https://github.com/microsoft/vscode/pull/265373#issuecomment-3272041535",
+      "body_excerpt": "\n          ⚠️ This PR originates from a fork. Due to security restrictions, pipelines from forks are no longer triggered automatically. Learn more.\nIf the changes appear safe, you can manually trigger the pipeline by commenting /AzurePipelines run.\n\n      "
+    },
+    {
+      "event": "commented",
+      "login": "vs-code-engineering[bot]",
+      "type": "Bot",
+      "at": "2025-09-09T22:51:22Z",
+      "url": "https://github.com/microsoft/vscode/pull/265373#issuecomment-3272526286",
+      "body_excerpt": "\n          ⚠️ This PR originates from a fork. Due to security restrictions, pipelines from forks are no longer triggered automatically. Learn more.\nIf the changes appear safe, you can manually trigger the pipeline by commenting /AzurePipelines run.\n\n      "
+    },
+    {
+      "event": "commented",
+      "login": "vs-code-engineering[bot]",
+      "type": "Bot",
+      "at": "2025-09-09T23:55:36Z",
+      "url": "https://github.com/microsoft/vscode/pull/265373#issuecomment-3272681142",
+      "body_excerpt": "\n          ⚠️ This PR originates from a fork. Due to security restrictions, pipelines from forks are no longer triggered automatically. Learn more.\nIf the changes appear safe, you can manually trigger the pipeline by commenting /AzurePipelines run.\n\n      "
+    },
+    {
+      "event": "commented",
+      "login": "vs-code-engineering[bot]",
+      "type": "Bot",
+      "at": "2025-09-10T13:02:08Z",
+      "url": "https://github.com/microsoft/vscode/pull/265373#issuecomment-3274888346",
+      "body_excerpt": "\n          ⚠️ This PR originates from a fork. Due to security restrictions, pipelines from forks are no longer triggered automatically. Learn more.\nIf the changes appear safe, you can manually trigger the pipeline by commenting /AzurePipelines run.\n\n      "
+    }
+  ]
+}

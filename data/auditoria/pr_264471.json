@@ -1,0 +1,54 @@
+{
+  "method": "rest_timeline_complete",
+  "source": "https://api.github.com/repos/microsoft/vscode/issues/264471/timeline?per_page=100",
+  "events": [
+    {
+      "event": "commented",
+      "login": "vs-code-engineering[bot]",
+      "type": "Bot",
+      "at": "2025-09-02T08:14:18Z",
+      "url": "https://github.com/microsoft/vscode/pull/264471#issuecomment-3244277589",
+      "body_excerpt": "⚠️ This PR originates from a fork. Due to security restrictions, pipelines from forks are no longer triggered automatically. [Learn more](https://learn.microsoft.com/en-us/azure/devops/pipelines/repos/github?view=azure-devops&tabs=yaml#comment-triggers).\n\nIf the changes appear safe, you can manually trigger the pipeline by commenting `/AzurePipelines run`."
+    },
+    {
+      "event": "reviewed",
+      "login": "aeschli",
+      "type": "User",
+      "at": "2025-09-02T08:15:22Z",
+      "url": "https://github.com/microsoft/vscode/pull/264471#pullrequestreview-3175384550",
+      "body_excerpt": ""
+    },
+    {
+      "event": "commented",
+      "login": "vs-code-engineering[bot]",
+      "type": "Bot",
+      "at": "2025-09-02T16:02:16Z",
+      "url": "https://github.com/microsoft/vscode/pull/264471#issuecomment-3245941753",
+      "body_excerpt": "⚠️ This PR originates from a fork. Due to security restrictions, pipelines from forks are no longer triggered automatically. [Learn more](https://learn.microsoft.com/en-us/azure/devops/pipelines/repos/github?view=azure-devops&tabs=yaml#comment-triggers).\n\nIf the changes appear safe, you can manually trigger the pipeline by commenting `/AzurePipelines run`."
+    },
+    {
+      "event": "reviewed",
+      "login": "Tyriar",
+      "type": "User",
+      "at": "2025-09-02T16:11:45Z",
+      "url": "https://github.com/microsoft/vscode/pull/264471#pullrequestreview-3177266266",
+      "body_excerpt": ""
+    },
+    {
+      "event": "commented",
+      "login": "mofreh345",
+      "type": "User",
+      "at": "2025-09-02T16:19:17Z",
+      "url": "https://github.com/microsoft/vscode/pull/264471#issuecomment-3246000741",
+      "body_excerpt": ""
+    },
+    {
+      "event": "reviewed",
+      "login": "Tyriar",
+      "type": "User",
+      "at": "2025-09-02T16:19:49Z",
+      "url": "https://github.com/microsoft/vscode/pull/264471#pullrequestreview-3177303541",
+      "body_excerpt": ""
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+﻿numero_pr,url_pr,created_at,grupo,decisao,motivo
+264252,https://github.com/microsoft/vscode/pull/264252,2025-09-01T00:17:54Z,B,selecionado,Elegivel em ordem de criacao
+264255,https://github.com/microsoft/vscode/pull/264255,2025-09-01T00:56:44Z,B,selecionado,Elegivel em ordem de criacao
+264284,https://github.com/microsoft/vscode/pull/264284,2025-09-01T06:32:05Z,B,selecionado,Elegivel em ordem de criacao
+264289,https://github.com/microsoft/vscode/pull/264289,2025-09-01T07:24:02Z,B,selecionado,Elegivel em ordem de criacao
+264292,https://github.com/microsoft/vscode/pull/264292,2025-09-01T07:49:58Z,INCERTO,excluido,Bot/comentario ambiguo: requer revisao humana
+264296,https://github.com/microsoft/vscode/pull/264296,2025-09-01T08:13:50Z,B,selecionado,Elegivel em ordem de criacao
+264310,https://github.com/microsoft/vscode/pull/264310,2025-09-01T09:29:00Z,B,selecionado,Elegivel em ordem de criacao
+264319,https://github.com/microsoft/vscode/pull/264319,2025-09-01T11:00:06Z,B,selecionado,Elegivel em ordem de criacao
+264331,https://github.com/microsoft/vscode/pull/264331,2025-09-01T13:29:35Z,B,selecionado,Elegivel em ordem de criacao
+264333,https://github.com/microsoft/vscode/pull/264333,2025-09-01T13:38:18Z,B,selecionado,Elegivel em ordem de criacao
+264337,https://github.com/microsoft/vscode/pull/264337,2025-09-01T13:55:17Z,B,selecionado,Elegivel em ordem de criacao
+264342,https://github.com/microsoft/vscode/pull/264342,2025-09-01T14:13:03Z,B,selecionado,Elegivel em ordem de criacao
+264343,https://github.com/microsoft/vscode/pull/264343,2025-09-01T14:18:20Z,B,selecionado,Elegivel em ordem de criacao
+264344,https://github.com/microsoft/vscode/pull/264344,2025-09-01T14:20:56Z,B,selecionado,Elegivel em ordem de criacao
+264345,https://github.com/microsoft/vscode/pull/264345,2025-09-01T14:21:22Z,B,selecionado,Elegivel em ordem de criacao
+264352,https://github.com/microsoft/vscode/pull/264352,2025-09-01T15:21:30Z,B,selecionado,Elegivel em ordem de criacao
+264355,https://github.com/microsoft/vscode/pull/264355,2025-09-01T15:35:36Z,B,selecionado,Elegivel em ordem de criacao
+264362,https://github.com/microsoft/vscode/pull/264362,2025-09-01T16:03:37Z,,excluido,Autoria automatizada
+264364,https://github.com/microsoft/vscode/pull/264364,2025-09-01T16:20:04Z,B,selecionado,Elegivel em ordem de criacao
+264369,https://github.com/microsoft/vscode/pull/264369,2025-09-01T16:53:28Z,B,selecionado,Elegivel em ordem de criacao
+264386,https://github.com/microsoft/vscode/pull/264386,2025-09-01T19:05:47Z,B,selecionado,Elegivel em ordem de criacao
+264414,https://github.com/microsoft/vscode/pull/264414,2025-09-01T21:05:49Z,B,selecionado,Elegivel em ordem de criacao
+264453,https://github.com/microsoft/vscode/pull/264453,2025-09-02T05:50:24Z,B,selecionado,Elegivel em ordem de criacao
+264469,https://github.com/microsoft/vscode/pull/264469,2025-09-02T08:08:01Z,B,selecionado,Elegivel em ordem de criacao
+264471,https://github.com/microsoft/vscode/pull/264471,2025-09-02T08:12:33Z,INCERTO,excluido,Bot/comentario ambiguo: requer revisao humana
+264513,https://github.com/microsoft/vscode/pull/264513,2025-09-02T10:04:36Z,B,selecionado,Elegivel em ordem de criacao
+264524,https://github.com/microsoft/vscode/pull/264524,2025-09-02T10:50:11Z,B,selecionado,Elegivel em ordem de criacao
+264582,https://github.com/microsoft/vscode/pull/264582,2025-09-02T14:40:29Z,B,selecionado,Elegivel em ordem de criacao
+264604,https://github.com/microsoft/vscode/pull/264604,2025-09-02T15:57:29Z,B,selecionado,Elegivel em ordem de criacao
+264611,https://github.com/microsoft/vscode/pull/264611,2025-09-02T16:18:34Z,INCERTO,excluido,Bot/comentario ambiguo: requer revisao humana
+264614,https://github.com/microsoft/vscode/pull/264614,2025-09-02T16:33:03Z,,excluido,Autoria automatizada
+264726,https://github.com/microsoft/vscode/pull/264726,2025-09-02T19:57:00Z,B,selecionado,Elegivel em ordem de criacao
+264739,https://github.com/microsoft/vscode/pull/264739,2025-09-02T20:46:43Z,B,selecionado,Elegivel em ordem de criacao
+264746,https://github.com/microsoft/vscode/pull/264746,2025-09-02T20:51:30Z,B,selecionado,Elegivel em ordem de criacao
+264763,https://github.com/microsoft/vscode/pull/264763,2025-09-02T21:23:39Z,B,selecionado,Elegivel em ordem de criacao
+264764,https://github.com/microsoft/vscode/pull/264764,2025-09-02T21:24:45Z,,nao_examinado,Cota do estrato sem interacao Copilot preenchida
+264769,https://github.com/microsoft/vscode/pull/264769,2025-09-02T21:38:17Z,,nao_examinado,Cota do estrato sem interacao Copilot preenchida
+264771,https://github.com/microsoft/vscode/pull/264771,2025-09-02T21:40:26Z,,nao_examinado,Cota do estrato sem interacao Copilot preenchida
+264773,https://github.com/microsoft/vscode/pull/264773,2025-09-02T21:46:15Z,,nao_examinado,Cota do estrato sem interacao Copilot preenchida
+264777,https://github.com/microsoft/vscode/pull/264777,2025-09-02T21:58:09Z,,nao_examinado,Cota do estrato sem interacao Copilot preenchida
+264778,https://github.com/microsoft/vscode/pull/264778,2025-09-02T21:59:24Z,,nao_examinado,Cota do estrato sem interacao Copilot preenchida
+264785,https://github.com/microsoft/vscode/pull/264785,2025-09-02T22:15:43Z,,nao_examinado,Cota do estrato sem interacao Copilot preenchida
+264788,https://github.com/microsoft/vscode/pull/264788,2025-09-02T22:38:35Z,,nao_examinado,Cota do estrato sem interacao Copilot preenchida
+264791,https://github.com/microsoft/vscode/pull/264791,2025-09-02T22:52:33Z,,nao_examinado,Cota do estrato sem interacao Copilot preenchida
+264792,https://github.com/microsoft/vscode/pull/264792,2025-09-02T22:56:59Z,,nao_examinado,Cota do estrato sem interacao Copilot preenchida
+264796,https://github.com/microsoft/vscode/pull/264796,2025-09-02T23:04:31Z,,nao_examinado,Cota do estrato sem interacao Copilot preenchida
+264797,https://github.com/microsoft/vscode/pull/264797,2025-09-02T23:10:19Z,,nao_examinado,Cota do estrato sem interacao Copilot preenchida
+264801,https://github.com/microsoft/vscode/pull/264801,2025-09-02T23:22:44Z,,nao_examinado,Cota do estrato sem interacao Copilot preenchida
+264802,https://github.com/microsoft/vscode/pull/264802,2025-09-02T23:33:30Z,,nao_examinado,Cota do estrato sem interacao Copilot preenchida
+264803,https://github.com/microsoft/vscode/pull/264803,2025-09-02T23:44:07Z,,nao_examinado,Cota do estrato sem interacao Copilot preenchida
+264804,https://github.com/microsoft/vscode/pull/264804,2025-09-02T23:46:44Z,,nao_examinado,Cota do estrato sem interacao Copilot preenchida
+264806,https://github.com/microsoft/vscode/pull/264806,2025-09-03T00:14:24Z,,nao_examinado,Cota do estrato sem interacao Copilot preenchida
+264819,https://github.com/microsoft/vscode/pull/264819,2025-09-03T01:24:57Z,,nao_examinado,Cota do estrato sem interacao Copilot preenchida
+264836,https://github.com/microsoft/vscode/pull/264836,2025-09-03T03:34:12Z,,nao_examinado,Cota do estrato sem interacao Copilot preenchida
+264841,https://github.com/microsoft/vscode/pull/264841,2025-09-03T04:30:19Z,,nao_examinado,Cota do estrato sem interacao Copilot preenchida
+264859,https://github.com/microsoft/vscode/pull/264859,2025-09-03T06:58:14Z,,nao_examinado,Cota do estrato sem interacao Copilot preenchida
+264864,https://github.com/microsoft/vscode/pull/264864,2025-09-03T07:34:59Z,,nao_examinado,Cota do estrato sem interacao Copilot preenchida
+264884,https://github.com/microsoft/vscode/pull/264884,2025-09-03T09:35:55Z,,nao_examinado,Cota do estrato sem interacao Copilot preenchida
+264891,https://github.com/microsoft/vscode/pull/264891,2025-09-03T10:00:47Z,,nao_examinado,Cota do estrato sem interacao Copilot preenchida
+264895,https://github.com/microsoft/vscode/pull/264895,2025-09-03T10:33:45Z,,nao_examinado,Cota do estrato sem interacao Copilot preenchida
+264896,https://github.com/microsoft/vscode/pull/264896,2025-09-03T10:37:33Z,,nao_examinado,Cota do estrato sem interacao Copilot preenchida
+264919,https://github.com/microsoft/vscode/pull/264919,2025-09-03T13:09:41Z,,nao_examinado,Cota do estrato sem interacao Copilot preenchida
+264924,https://github.com/microsoft/vscode/pull/264924,2025-09-03T13:32:43Z,,nao_examinado,Cota do estrato sem interacao Copilot preenchida
+264926,https://github.com/microsoft/vscode/pull/264926,2025-09-03T13:34:17Z,,nao_examinado,Cota do estrato sem interacao Copilot preenchida
+264927,https://github.com/microsoft/vscode/pull/264927,2025-09-03T13:36:05Z,,nao_examinado,Cota do estrato sem interacao Copilot preenchida
+264930,https://github.com/microsoft/vscode/pull/264930,2025-09-03T14:33:13Z,,nao_examinado,Cota do estrato sem interacao Copilot preenchida
+264937,https://github.com/microsoft/vscode/pull/264937,2025-09-03T15:17:24Z,,nao_examinado,Cota do estrato sem interacao Copilot preenchida
+264945,https://github.com/microsoft/vscode/pull/264945,2025-09-03T16:40:40Z,,nao_examinado,Cota do estrato sem interacao Copilot preenchida
+264949,https://github.com/microsoft/vscode/pull/264949,2025-09-03T16:47:37Z,,nao_examinado,Cota do estrato sem interacao Copilot preenchida
+264951,https://github.com/microsoft/vscode/pull/264951,2025-09-03T16:55:59Z,,nao_examinado,Cota do estrato sem interacao Copilot preenchida
+264954,https://github.com/microsoft/vscode/pull/264954,2025-09-03T17:18:46Z,,nao_examinado,Cota do estrato sem interacao Copilot preenchida
+265002,https://github.com/microsoft/vscode/pull/265002,2025-09-03T18:41:15Z,,nao_examinado,Cota do estrato sem interacao Copilot preenchida
+265003,https://github.com/microsoft/vscode/pull/265003,2025-09-03T18:42:03Z,,nao_examinado,Cota do estrato sem interacao Copilot preenchida
+265007,https://github.com/microsoft/vscode/pull/265007,2025-09-03T19:17:19Z,,nao_examinado,Cota do estrato sem interacao Copilot preenchida
+265008,https://github.com/microsoft/vscode/pull/265008,2025-09-03T19:17:51Z,,nao_examinado,Cota do estrato sem interacao Copilot preenchida
+265009,https://github.com/microsoft/vscode/pull/265009,2025-09-03T19:27:10Z,,nao_examinado,Cota do estrato sem interacao Copilot preenchida
+265014,https://github.com/microsoft/vscode/pull/265014,2025-09-03T20:32:39Z,,nao_examinado,Cota do estrato sem interacao Copilot preenchida
+265024,https://github.com/microsoft/vscode/pull/265024,2025-09-03T21:30:58Z,,nao_examinado,Cota do estrato sem interacao Copilot preenchida
+265030,https://github.com/microsoft/vscode/pull/265030,2025-09-03T21:45:43Z,,nao_examinado,Cota do estrato sem interacao Copilot preenchida
+265049,https://github.com/microsoft/vscode/pull/265049,2025-09-03T23:29:18Z,,nao_examinado,Cota do estrato sem interacao Copilot preenchida
+265050,https://github.com/microsoft/vscode/pull/265050,2025-09-03T23:37:30Z,,nao_examinado,Cota do estrato sem interacao Copilot preenchida
+265054,https://github.com/microsoft/vscode/pull/265054,2025-09-04T00:04:49Z,,nao_examinado,Cota do estrato sem interacao Copilot preenchida
+265065,https://github.com/microsoft/vscode/pull/265065,2025-09-04T02:38:09Z,,nao_examinado,Cota do estrato sem interacao Copilot preenchida
+265066,https://github.com/microsoft/vscode/pull/265066,2025-09-04T03:04:48Z,,nao_examinado,Cota do estrato sem interacao Copilot preenchida
+265086,https://github.com/microsoft/vscode/pull/265086,2025-09-04T06:40:32Z,,nao_examinado,Cota do estrato sem interacao Copilot preenchida
+265087,https://github.com/microsoft/vscode/pull/265087,2025-09-04T06:46:39Z,,nao_examinado,Cota do estrato sem interacao Copilot preenchida
+265088,https://github.com/microsoft/vscode/pull/265088,2025-09-04T06:51:32Z,,nao_examinado,Cota do estrato sem interacao Copilot preenchida
+265089,https://github.com/microsoft/vscode/pull/265089,2025-09-04T06:52:33Z,,nao_examinado,Cota do estrato sem interacao Copilot preenchida
+265090,https://github.com/microsoft/vscode/pull/265090,2025-09-04T06:55:45Z,,nao_examinado,Cota do estrato sem interacao Copilot preenchida
+265097,https://github.com/microsoft/vscode/pull/265097,2025-09-04T07:30:02Z,,nao_examinado,Cota do estrato sem interacao Copilot preenchida
+265101,https://github.com/microsoft/vscode/pull/265101,2025-09-04T08:55:16Z,,nao_examinado,Cota do estrato sem interacao Copilot preenchida
+265105,https://github.com/microsoft/vscode/pull/265105,2025-09-04T09:33:25Z,,nao_examinado,Cota do estrato sem interacao Copilot preenchida
+265111,https://github.com/microsoft/vscode/pull/265111,2025-09-04T09:54:15Z,,nao_examinado,Cota do estrato sem interacao Copilot preenchida
+265121,https://github.com/microsoft/vscode/pull/265121,2025-09-04T11:04:49Z,,nao_examinado,Cota do estrato sem interacao Copilot preenchida
+265130,https://github.com/microsoft/vscode/pull/265130,2025-09-04T11:42:19Z,,nao_examinado,Cota do estrato sem interacao Copilot preenchida
+265131,https://github.com/microsoft/vscode/pull/265131,2025-09-04T11:46:01Z,,nao_examinado,Cota do estrato sem interacao Copilot preenchida
+265137,https://github.com/microsoft/vscode/pull/265137,2025-09-04T12:19:49Z,,nao_examinado,Cota do estrato sem interacao Copilot preenchida
+265140,https://github.com/microsoft/vscode/pull/265140,2025-09-04T12:53:42Z,,nao_examinado,Cota do estrato sem interacao Copilot preenchida
+265143,https://github.com/microsoft/vscode/pull/265143,2025-09-04T13:10:25Z,,nao_examinado,Cota do estrato sem interacao Copilot preenchida
+265144,https://github.com/microsoft/vscode/pull/265144,2025-09-04T13:20:02Z,,nao_examinado,Cota do estrato sem interacao Copilot preenchida
+265373,https://github.com/microsoft/vscode/pull/265373,2025-09-05T16:38:13Z,A,selecionado,Elegivel em ordem de criacao
+265683,https://github.com/microsoft/vscode/pull/265683,2025-09-08T14:54:21Z,,excluido,Autoria automatizada
+265837,https://github.com/microsoft/vscode/pull/265837,2025-09-09T12:54:38Z,A,selecionado,Elegivel em ordem de criacao
+266073,https://github.com/microsoft/vscode/pull/266073,2025-09-10T18:33:46Z,A,selecionado,Elegivel em ordem de criacao
+266121,https://github.com/microsoft/vscode/pull/266121,2025-09-11T01:24:38Z,A,selecionado,Elegivel em ordem de criacao
+266123,https://github.com/microsoft/vscode/pull/266123,2025-09-11T01:29:36Z,A,selecionado,Elegivel em ordem de criacao
+266299,https://github.com/microsoft/vscode/pull/266299,2025-09-12T02:57:51Z,A,selecionado,Elegivel em ordem de criacao
+267013,https://github.com/microsoft/vscode/pull/267013,2025-09-16T05:23:51Z,A,selecionado,Elegivel em ordem de criacao
+267014,https://github.com/microsoft/vscode/pull/267014,2025-09-16T05:28:58Z,A,selecionado,Elegivel em ordem de criacao
+267071,https://github.com/microsoft/vscode/pull/267071,2025-09-16T16:25:32Z,A,selecionado,Elegivel em ordem de criacao
+267072,https://github.com/microsoft/vscode/pull/267072,2025-09-16T16:31:12Z,A,selecionado,Elegivel em ordem de criacao
+267073,https://github.com/microsoft/vscode/pull/267073,2025-09-16T16:31:42Z,A,selecionado,Elegivel em ordem de criacao
+267074,https://github.com/microsoft/vscode/pull/267074,2025-09-16T16:38:08Z,A,selecionado,Elegivel em ordem de criacao
+267077,https://github.com/microsoft/vscode/pull/267077,2025-09-16T17:05:25Z,A,selecionado,Elegivel em ordem de criacao
+267079,https://github.com/microsoft/vscode/pull/267079,2025-09-16T17:38:10Z,A,selecionado,Elegivel em ordem de criacao
+267112,https://github.com/microsoft/vscode/pull/267112,2025-09-16T21:25:38Z,A,selecionado,Elegivel em ordem de criacao
+267117,https://github.com/microsoft/vscode/pull/267117,2025-09-16T21:53:51Z,A,selecionado,Elegivel em ordem de criacao
+267130,https://github.com/microsoft/vscode/pull/267130,2025-09-16T23:54:02Z,A,selecionado,Elegivel em ordem de criacao
+267149,https://github.com/microsoft/vscode/pull/267149,2025-09-17T03:37:00Z,A,selecionado,Elegivel em ordem de criacao
+267156,https://github.com/microsoft/vscode/pull/267156,2025-09-17T05:13:17Z,A,selecionado,Elegivel em ordem de criacao
+267167,https://github.com/microsoft/vscode/pull/267167,2025-09-17T07:33:34Z,A,selecionado,Elegivel em ordem de criacao
+267200,https://github.com/microsoft/vscode/pull/267200,2025-09-17T12:44:37Z,A,selecionado,Elegivel em ordem de criacao
+267203,https://github.com/microsoft/vscode/pull/267203,2025-09-17T12:49:26Z,A,selecionado,Elegivel em ordem de criacao
+267205,https://github.com/microsoft/vscode/pull/267205,2025-09-17T13:06:36Z,A,selecionado,Elegivel em ordem de criacao
+267213,https://github.com/microsoft/vscode/pull/267213,2025-09-17T14:05:06Z,A,selecionado,Elegivel em ordem de criacao
+267218,https://github.com/microsoft/vscode/pull/267218,2025-09-17T14:37:35Z,A,selecionado,Elegivel em ordem de criacao
+267223,https://github.com/microsoft/vscode/pull/267223,2025-09-17T14:45:11Z,A,selecionado,Elegivel em ordem de criacao
+267242,https://github.com/microsoft/vscode/pull/267242,2025-09-17T16:27:58Z,A,selecionado,Elegivel em ordem de criacao
+267243,https://github.com/microsoft/vscode/pull/267243,2025-09-17T16:37:24Z,A,selecionado,Elegivel em ordem de criacao
+267248,https://github.com/microsoft/vscode/pull/267248,2025-09-17T17:15:49Z,A,selecionado,Elegivel em ordem de criacao
+267252,https://github.com/microsoft/vscode/pull/267252,2025-09-17T17:52:50Z,A,selecionado,Elegivel em ordem de criacao

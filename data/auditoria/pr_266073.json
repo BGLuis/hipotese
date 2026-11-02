@@ -1,0 +1,34 @@
+{
+  "method": "html_positive",
+  "source": "https://github.com/microsoft/vscode/pull/266073",
+  "top_level_timeline_complete": false,
+  "review_nodes": 14,
+  "comment_nodes": 2,
+  "sha256_response": "5d328d687f6849a7048ccdacb7c2a4ae9033550dc99480939256bd3c4c04176e",
+  "events": [
+    {
+      "event": "reviewed",
+      "login": "copilot-pull-request-reviewer[bot]",
+      "type": "Bot",
+      "at": "2025-09-10T19:28:08Z",
+      "url": "https://github.com/microsoft/vscode/pull/266073#pullrequestreview-3207547945",
+      "body_excerpt": "Revisão formal publicada por aplicativo de revisão de código."
+    },
+    {
+      "event": "reviewed",
+      "login": "github-advanced-security[bot]",
+      "type": "Bot",
+      "at": "2025-09-10T19:50:04Z",
+      "url": "https://github.com/microsoft/vscode/pull/266073#pullrequestreview-3207607851",
+      "body_excerpt": "Revisão formal publicada por aplicativo de revisão de código."
+    },
+    {
+      "event": "reviewed",
+      "login": "copilot-pull-request-reviewer[bot]",
+      "type": "Bot",
+      "at": "2025-09-11T16:21:27Z",
+      "url": "https://github.com/microsoft/vscode/pull/266073#pullrequestreview-3212643943",
+      "body_excerpt": "Revisão formal publicada por aplicativo de revisão de código."
+    }
+  ]
+}

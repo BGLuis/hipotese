@@ -1,0 +1,2202 @@
+[
+  {
+    "number": 265373,
+    "html_url": "https://github.com/microsoft/vscode/pull/265373",
+    "created_at": "2025-09-05T16:38:13Z",
+    "merged_at": "2025-09-22T17:24:27Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "hawkticehurst",
+      "type": "User"
+    }
+  },
+  {
+    "number": 265683,
+    "html_url": "https://github.com/microsoft/vscode/pull/265683",
+    "created_at": "2025-09-08T14:54:21Z",
+    "merged_at": "2025-09-28T03:56:05Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "Copilot",
+      "type": "Bot"
+    }
+  },
+  {
+    "number": 265837,
+    "html_url": "https://github.com/microsoft/vscode/pull/265837",
+    "created_at": "2025-09-09T12:54:38Z",
+    "merged_at": "2025-09-09T13:23:18Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "sandy081",
+      "type": "User"
+    }
+  },
+  {
+    "number": 266073,
+    "html_url": "https://github.com/microsoft/vscode/pull/266073",
+    "created_at": "2025-09-10T18:33:46Z",
+    "merged_at": "2025-09-11T22:17:31Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "meganrogge",
+      "type": "User"
+    }
+  },
+  {
+    "number": 266121,
+    "html_url": "https://github.com/microsoft/vscode/pull/266121",
+    "created_at": "2025-09-11T01:24:38Z",
+    "merged_at": "2025-09-22T21:53:00Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "mjbvz",
+      "type": "User"
+    }
+  },
+  {
+    "number": 266123,
+    "html_url": "https://github.com/microsoft/vscode/pull/266123",
+    "created_at": "2025-09-11T01:29:36Z",
+    "merged_at": "2025-09-17T21:54:01Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "digitarald",
+      "type": "User"
+    }
+  },
+  {
+    "number": 266299,
+    "html_url": "https://github.com/microsoft/vscode/pull/266299",
+    "created_at": "2025-09-12T02:57:51Z",
+    "merged_at": "2025-09-29T20:44:58Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "djmiska25",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267013,
+    "html_url": "https://github.com/microsoft/vscode/pull/267013",
+    "created_at": "2025-09-16T05:23:51Z",
+    "merged_at": "2025-09-16T15:01:50Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "TylerLeonhardt",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267014,
+    "html_url": "https://github.com/microsoft/vscode/pull/267014",
+    "created_at": "2025-09-16T05:28:58Z",
+    "merged_at": "2025-09-19T15:53:42Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "rebornix",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267071,
+    "html_url": "https://github.com/microsoft/vscode/pull/267071",
+    "created_at": "2025-09-16T16:25:32Z",
+    "merged_at": "2025-09-16T16:47:25Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "sandy081",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267072,
+    "html_url": "https://github.com/microsoft/vscode/pull/267072",
+    "created_at": "2025-09-16T16:31:12Z",
+    "merged_at": "2025-09-16T16:46:51Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "alexr00",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267073,
+    "html_url": "https://github.com/microsoft/vscode/pull/267073",
+    "created_at": "2025-09-16T16:31:42Z",
+    "merged_at": "2025-09-16T16:43:57Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "aeschli",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267074,
+    "html_url": "https://github.com/microsoft/vscode/pull/267074",
+    "created_at": "2025-09-16T16:38:08Z",
+    "merged_at": "2025-09-16T16:57:27Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "justschen",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267077,
+    "html_url": "https://github.com/microsoft/vscode/pull/267077",
+    "created_at": "2025-09-16T17:05:25Z",
+    "merged_at": "2025-09-16T17:17:21Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "sandy081",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267079,
+    "html_url": "https://github.com/microsoft/vscode/pull/267079",
+    "created_at": "2025-09-16T17:38:10Z",
+    "merged_at": "2025-09-16T18:23:21Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "connor4312",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267112,
+    "html_url": "https://github.com/microsoft/vscode/pull/267112",
+    "created_at": "2025-09-16T21:25:38Z",
+    "merged_at": "2025-09-17T13:56:25Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "lszomoru",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267117,
+    "html_url": "https://github.com/microsoft/vscode/pull/267117",
+    "created_at": "2025-09-16T21:53:51Z",
+    "merged_at": "2025-09-16T23:35:53Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "alexdima",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267130,
+    "html_url": "https://github.com/microsoft/vscode/pull/267130",
+    "created_at": "2025-09-16T23:54:02Z",
+    "merged_at": "2025-09-17T00:05:39Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "lszomoru",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267149,
+    "html_url": "https://github.com/microsoft/vscode/pull/267149",
+    "created_at": "2025-09-17T03:37:00Z",
+    "merged_at": "2025-09-17T04:21:34Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "connor4312",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267156,
+    "html_url": "https://github.com/microsoft/vscode/pull/267156",
+    "created_at": "2025-09-17T05:13:17Z",
+    "merged_at": "2025-09-17T12:04:45Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "lszomoru",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267167,
+    "html_url": "https://github.com/microsoft/vscode/pull/267167",
+    "created_at": "2025-09-17T07:33:34Z",
+    "merged_at": "2025-09-24T23:39:43Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "eli-w-king",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267200,
+    "html_url": "https://github.com/microsoft/vscode/pull/267200",
+    "created_at": "2025-09-17T12:44:37Z",
+    "merged_at": "2025-09-17T13:02:17Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "joaomoreno",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267203,
+    "html_url": "https://github.com/microsoft/vscode/pull/267203",
+    "created_at": "2025-09-17T12:49:26Z",
+    "merged_at": "2025-09-17T13:00:56Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "bpasero",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267205,
+    "html_url": "https://github.com/microsoft/vscode/pull/267205",
+    "created_at": "2025-09-17T13:06:36Z",
+    "merged_at": "2025-09-17T13:48:16Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "bpasero",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267213,
+    "html_url": "https://github.com/microsoft/vscode/pull/267213",
+    "created_at": "2025-09-17T14:05:06Z",
+    "merged_at": "2025-09-17T14:30:05Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "lszomoru",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267218,
+    "html_url": "https://github.com/microsoft/vscode/pull/267218",
+    "created_at": "2025-09-17T14:37:35Z",
+    "merged_at": "2025-09-17T15:51:11Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "bpasero",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267223,
+    "html_url": "https://github.com/microsoft/vscode/pull/267223",
+    "created_at": "2025-09-17T14:45:11Z",
+    "merged_at": "2025-09-17T15:51:23Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "bpasero",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267242,
+    "html_url": "https://github.com/microsoft/vscode/pull/267242",
+    "created_at": "2025-09-17T16:27:58Z",
+    "merged_at": "2025-09-17T17:08:31Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "hediet",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267243,
+    "html_url": "https://github.com/microsoft/vscode/pull/267243",
+    "created_at": "2025-09-17T16:37:24Z",
+    "merged_at": "2025-09-17T16:49:06Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "sandy081",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267248,
+    "html_url": "https://github.com/microsoft/vscode/pull/267248",
+    "created_at": "2025-09-17T17:15:49Z",
+    "merged_at": "2025-09-17T17:41:07Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "bpasero",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267252,
+    "html_url": "https://github.com/microsoft/vscode/pull/267252",
+    "created_at": "2025-09-17T17:52:50Z",
+    "merged_at": "2025-09-17T18:09:42Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "mjbvz",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267254,
+    "html_url": "https://github.com/microsoft/vscode/pull/267254",
+    "created_at": "2025-09-17T17:56:29Z",
+    "merged_at": "2025-09-17T21:24:08Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "deepak1556",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267256,
+    "html_url": "https://github.com/microsoft/vscode/pull/267256",
+    "created_at": "2025-09-17T18:26:49Z",
+    "merged_at": "2025-09-17T18:38:44Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "lszomoru",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267271,
+    "html_url": "https://github.com/microsoft/vscode/pull/267271",
+    "created_at": "2025-09-17T21:07:54Z",
+    "merged_at": "2025-09-17T21:20:00Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "mjbvz",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267272,
+    "html_url": "https://github.com/microsoft/vscode/pull/267272",
+    "created_at": "2025-09-17T21:33:42Z",
+    "merged_at": "2025-09-19T18:39:46Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "justschen",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267294,
+    "html_url": "https://github.com/microsoft/vscode/pull/267294",
+    "created_at": "2025-09-17T23:14:07Z",
+    "merged_at": "2025-09-17T23:28:36Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "justschen",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267298,
+    "html_url": "https://github.com/microsoft/vscode/pull/267298",
+    "created_at": "2025-09-18T00:27:22Z",
+    "merged_at": "2025-09-18T00:50:23Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "sandy081",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267303,
+    "html_url": "https://github.com/microsoft/vscode/pull/267303",
+    "created_at": "2025-09-18T00:56:15Z",
+    "merged_at": "2025-09-18T04:25:37Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "aeschli",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267389,
+    "html_url": "https://github.com/microsoft/vscode/pull/267389",
+    "created_at": "2025-09-18T19:00:42Z",
+    "merged_at": "2025-09-18T19:50:07Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "lszomoru",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267407,
+    "html_url": "https://github.com/microsoft/vscode/pull/267407",
+    "created_at": "2025-09-18T22:01:00Z",
+    "merged_at": "2025-09-18T22:30:29Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "joshspicer",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267417,
+    "html_url": "https://github.com/microsoft/vscode/pull/267417",
+    "created_at": "2025-09-18T23:08:31Z",
+    "merged_at": "2025-09-18T23:20:52Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "hediet",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267439,
+    "html_url": "https://github.com/microsoft/vscode/pull/267439",
+    "created_at": "2025-09-19T03:47:36Z",
+    "merged_at": "2025-09-28T05:34:39Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "anthonykim1",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267483,
+    "html_url": "https://github.com/microsoft/vscode/pull/267483",
+    "created_at": "2025-09-19T13:33:56Z",
+    "merged_at": "2025-09-19T13:51:40Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "lszomoru",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267515,
+    "html_url": "https://github.com/microsoft/vscode/pull/267515",
+    "created_at": "2025-09-19T18:15:05Z",
+    "merged_at": "2025-09-20T18:45:49Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "bpasero",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267519,
+    "html_url": "https://github.com/microsoft/vscode/pull/267519",
+    "created_at": "2025-09-19T18:22:08Z",
+    "merged_at": "2025-09-19T21:26:52Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "connor4312",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267526,
+    "html_url": "https://github.com/microsoft/vscode/pull/267526",
+    "created_at": "2025-09-19T18:59:11Z",
+    "merged_at": "2025-09-20T18:29:58Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "hediet",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267543,
+    "html_url": "https://github.com/microsoft/vscode/pull/267543",
+    "created_at": "2025-09-19T22:42:22Z",
+    "merged_at": "2025-09-19T23:00:11Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "TylerLeonhardt",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267546,
+    "html_url": "https://github.com/microsoft/vscode/pull/267546",
+    "created_at": "2025-09-19T23:12:41Z",
+    "merged_at": "2025-09-23T00:13:15Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "narbit",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267698,
+    "html_url": "https://github.com/microsoft/vscode/pull/267698",
+    "created_at": "2025-09-21T18:35:34Z",
+    "merged_at": "2025-09-21T19:00:41Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "bpasero",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267700,
+    "html_url": "https://github.com/microsoft/vscode/pull/267700",
+    "created_at": "2025-09-21T18:47:58Z",
+    "merged_at": "2025-09-21T18:59:27Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "bpasero",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267724,
+    "html_url": "https://github.com/microsoft/vscode/pull/267724",
+    "created_at": "2025-09-22T00:49:21Z",
+    "merged_at": "2025-09-24T17:27:16Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "avarayr",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267738,
+    "html_url": "https://github.com/microsoft/vscode/pull/267738",
+    "created_at": "2025-09-22T05:01:50Z",
+    "merged_at": "2025-09-22T06:55:07Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "justschen",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267741,
+    "html_url": "https://github.com/microsoft/vscode/pull/267741",
+    "created_at": "2025-09-22T06:20:44Z",
+    "merged_at": "2025-09-22T06:32:05Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "lszomoru",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267745,
+    "html_url": "https://github.com/microsoft/vscode/pull/267745",
+    "created_at": "2025-09-22T06:47:59Z",
+    "merged_at": "2025-09-22T06:59:31Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "bpasero",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267752,
+    "html_url": "https://github.com/microsoft/vscode/pull/267752",
+    "created_at": "2025-09-22T09:09:45Z",
+    "merged_at": "2025-09-22T09:28:08Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "aeschli",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267758,
+    "html_url": "https://github.com/microsoft/vscode/pull/267758",
+    "created_at": "2025-09-22T10:03:46Z",
+    "merged_at": "2025-09-22T10:15:55Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "bpasero",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267762,
+    "html_url": "https://github.com/microsoft/vscode/pull/267762",
+    "created_at": "2025-09-22T10:27:14Z",
+    "merged_at": "2025-09-22T10:38:53Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "aeschli",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267786,
+    "html_url": "https://github.com/microsoft/vscode/pull/267786",
+    "created_at": "2025-09-22T14:46:07Z",
+    "merged_at": "2025-09-22T14:58:44Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "lszomoru",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267791,
+    "html_url": "https://github.com/microsoft/vscode/pull/267791",
+    "created_at": "2025-09-22T15:30:47Z",
+    "merged_at": "2025-09-22T16:02:10Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "meganrogge",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267795,
+    "html_url": "https://github.com/microsoft/vscode/pull/267795",
+    "created_at": "2025-09-22T15:55:17Z",
+    "merged_at": "2025-09-22T16:13:36Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "lszomoru",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267801,
+    "html_url": "https://github.com/microsoft/vscode/pull/267801",
+    "created_at": "2025-09-22T16:29:34Z",
+    "merged_at": "2025-09-22T16:42:14Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "meganrogge",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267808,
+    "html_url": "https://github.com/microsoft/vscode/pull/267808",
+    "created_at": "2025-09-22T17:02:56Z",
+    "merged_at": "2025-09-22T17:14:20Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "meganrogge",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267812,
+    "html_url": "https://github.com/microsoft/vscode/pull/267812",
+    "created_at": "2025-09-22T18:02:37Z",
+    "merged_at": "2025-09-22T18:14:06Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "TylerLeonhardt",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267813,
+    "html_url": "https://github.com/microsoft/vscode/pull/267813",
+    "created_at": "2025-09-22T18:02:58Z",
+    "merged_at": "2025-09-22T18:17:13Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "meganrogge",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267816,
+    "html_url": "https://github.com/microsoft/vscode/pull/267816",
+    "created_at": "2025-09-22T18:22:37Z",
+    "merged_at": "2025-09-22T18:34:20Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "connor4312",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267818,
+    "html_url": "https://github.com/microsoft/vscode/pull/267818",
+    "created_at": "2025-09-22T18:28:48Z",
+    "merged_at": "2025-09-22T19:36:54Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "essjay05",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267827,
+    "html_url": "https://github.com/microsoft/vscode/pull/267827",
+    "created_at": "2025-09-22T19:16:44Z",
+    "merged_at": "2025-09-22T22:03:53Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "meganrogge",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267832,
+    "html_url": "https://github.com/microsoft/vscode/pull/267832",
+    "created_at": "2025-09-22T19:42:18Z",
+    "merged_at": "2025-09-22T23:53:50Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "lramos15",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267833,
+    "html_url": "https://github.com/microsoft/vscode/pull/267833",
+    "created_at": "2025-09-22T19:52:41Z",
+    "merged_at": "2025-09-22T20:36:31Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "TylerLeonhardt",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267835,
+    "html_url": "https://github.com/microsoft/vscode/pull/267835",
+    "created_at": "2025-09-22T20:09:51Z",
+    "merged_at": "2025-09-22T20:53:22Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "mjbvz",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267851,
+    "html_url": "https://github.com/microsoft/vscode/pull/267851",
+    "created_at": "2025-09-22T20:45:43Z",
+    "merged_at": "2025-09-22T21:53:44Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "meganrogge",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267856,
+    "html_url": "https://github.com/microsoft/vscode/pull/267856",
+    "created_at": "2025-09-22T21:40:33Z",
+    "merged_at": "2025-09-23T09:04:45Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "bhavyaus",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267869,
+    "html_url": "https://github.com/microsoft/vscode/pull/267869",
+    "created_at": "2025-09-22T22:53:56Z",
+    "merged_at": "2025-09-22T23:37:32Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "hediet",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267870,
+    "html_url": "https://github.com/microsoft/vscode/pull/267870",
+    "created_at": "2025-09-22T22:55:04Z",
+    "merged_at": "2025-09-22T23:38:16Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "mjbvz",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267917,
+    "html_url": "https://github.com/microsoft/vscode/pull/267917",
+    "created_at": "2025-09-23T07:57:55Z",
+    "merged_at": "2025-09-23T08:09:23Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "bpasero",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267918,
+    "html_url": "https://github.com/microsoft/vscode/pull/267918",
+    "created_at": "2025-09-23T08:00:16Z",
+    "merged_at": "2025-09-23T08:13:14Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "lszomoru",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267925,
+    "html_url": "https://github.com/microsoft/vscode/pull/267925",
+    "created_at": "2025-09-23T09:12:13Z",
+    "merged_at": "2025-09-23T21:53:15Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "deepak1556",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267939,
+    "html_url": "https://github.com/microsoft/vscode/pull/267939",
+    "created_at": "2025-09-23T11:04:28Z",
+    "merged_at": "2025-09-23T12:04:46Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "deepak1556",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267942,
+    "html_url": "https://github.com/microsoft/vscode/pull/267942",
+    "created_at": "2025-09-23T11:45:53Z",
+    "merged_at": "2025-09-23T12:06:53Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "lszomoru",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267947,
+    "html_url": "https://github.com/microsoft/vscode/pull/267947",
+    "created_at": "2025-09-23T12:07:03Z",
+    "merged_at": "2025-09-23T15:05:16Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "bpasero",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267948,
+    "html_url": "https://github.com/microsoft/vscode/pull/267948",
+    "created_at": "2025-09-23T12:24:07Z",
+    "merged_at": "2025-09-23T13:29:07Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "lszomoru",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267955,
+    "html_url": "https://github.com/microsoft/vscode/pull/267955",
+    "created_at": "2025-09-23T13:12:03Z",
+    "merged_at": "2025-09-23T13:58:12Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "bpasero",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267965,
+    "html_url": "https://github.com/microsoft/vscode/pull/267965",
+    "created_at": "2025-09-23T13:46:28Z",
+    "merged_at": "2025-09-23T14:00:19Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "bpasero",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267967,
+    "html_url": "https://github.com/microsoft/vscode/pull/267967",
+    "created_at": "2025-09-23T13:49:53Z",
+    "merged_at": "2025-09-23T14:02:01Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "bpasero",
+      "type": "User"
+    }
+  },
+  {
+    "number": 267972,
+    "html_url": "https://github.com/microsoft/vscode/pull/267972",
+    "created_at": "2025-09-23T14:01:52Z",
+    "merged_at": "2025-09-23T14:13:28Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "lszomoru",
+      "type": "User"
+    }
+  },
+  {
+    "number": 268002,
+    "html_url": "https://github.com/microsoft/vscode/pull/268002",
+    "created_at": "2025-09-23T16:24:48Z",
+    "merged_at": "2025-09-23T16:36:25Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "bhavyaus",
+      "type": "User"
+    }
+  },
+  {
+    "number": 268006,
+    "html_url": "https://github.com/microsoft/vscode/pull/268006",
+    "created_at": "2025-09-23T16:36:40Z",
+    "merged_at": "2025-09-23T17:21:21Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "TylerLeonhardt",
+      "type": "User"
+    }
+  },
+  {
+    "number": 268013,
+    "html_url": "https://github.com/microsoft/vscode/pull/268013",
+    "created_at": "2025-09-23T17:22:32Z",
+    "merged_at": "2025-09-24T01:50:01Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "mjbvz",
+      "type": "User"
+    }
+  },
+  {
+    "number": 268017,
+    "html_url": "https://github.com/microsoft/vscode/pull/268017",
+    "created_at": "2025-09-23T17:41:41Z",
+    "merged_at": "2025-09-24T19:45:13Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "meganrogge",
+      "type": "User"
+    }
+  },
+  {
+    "number": 268019,
+    "html_url": "https://github.com/microsoft/vscode/pull/268019",
+    "created_at": "2025-09-23T17:44:32Z",
+    "merged_at": "2025-09-23T22:58:03Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "rzhao271",
+      "type": "User"
+    }
+  },
+  {
+    "number": 268020,
+    "html_url": "https://github.com/microsoft/vscode/pull/268020",
+    "created_at": "2025-09-23T17:59:45Z",
+    "merged_at": "2025-09-23T18:57:24Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "connor4312",
+      "type": "User"
+    }
+  },
+  {
+    "number": 268023,
+    "html_url": "https://github.com/microsoft/vscode/pull/268023",
+    "created_at": "2025-09-23T18:31:02Z",
+    "merged_at": "2025-09-23T18:57:44Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "bhavyaus",
+      "type": "User"
+    }
+  },
+  {
+    "number": 268024,
+    "html_url": "https://github.com/microsoft/vscode/pull/268024",
+    "created_at": "2025-09-23T18:33:19Z",
+    "merged_at": "2025-09-23T18:56:54Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "bpasero",
+      "type": "User"
+    }
+  },
+  {
+    "number": 268025,
+    "html_url": "https://github.com/microsoft/vscode/pull/268025",
+    "created_at": "2025-09-23T18:36:33Z",
+    "merged_at": "2025-09-23T18:58:11Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "connor4312",
+      "type": "User"
+    }
+  },
+  {
+    "number": 268029,
+    "html_url": "https://github.com/microsoft/vscode/pull/268029",
+    "created_at": "2025-09-23T19:05:10Z",
+    "merged_at": "2025-09-23T20:25:14Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "digitarald",
+      "type": "User"
+    }
+  },
+  {
+    "number": 268041,
+    "html_url": "https://github.com/microsoft/vscode/pull/268041",
+    "created_at": "2025-09-23T20:21:10Z",
+    "merged_at": "2025-09-23T21:49:20Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "lszomoru",
+      "type": "User"
+    }
+  },
+  {
+    "number": 268058,
+    "html_url": "https://github.com/microsoft/vscode/pull/268058",
+    "created_at": "2025-09-23T21:54:36Z",
+    "merged_at": "2025-09-24T23:53:42Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "vijayupadya",
+      "type": "User"
+    }
+  },
+  {
+    "number": 268059,
+    "html_url": "https://github.com/microsoft/vscode/pull/268059",
+    "created_at": "2025-09-23T22:01:41Z",
+    "merged_at": "2025-09-23T22:23:45Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "mrleemurray",
+      "type": "User"
+    }
+  },
+  {
+    "number": 268061,
+    "html_url": "https://github.com/microsoft/vscode/pull/268061",
+    "created_at": "2025-09-23T22:16:47Z",
+    "merged_at": "2025-09-23T22:28:39Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "lszomoru",
+      "type": "User"
+    }
+  },
+  {
+    "number": 268065,
+    "html_url": "https://github.com/microsoft/vscode/pull/268065",
+    "created_at": "2025-09-23T22:37:53Z",
+    "merged_at": "2025-09-23T22:52:47Z",
+    "search_stratum": "with_copilot",
+    "user": {
+      "login": "sbatten",
+      "type": "User"
+    }
+  },
+  {
+    "number": 264252,
+    "html_url": "https://github.com/microsoft/vscode/pull/264252",
+    "created_at": "2025-09-01T00:17:54Z",
+    "merged_at": "2025-09-01T00:41:54Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "bhavyaus",
+      "type": "User"
+    }
+  },
+  {
+    "number": 264255,
+    "html_url": "https://github.com/microsoft/vscode/pull/264255",
+    "created_at": "2025-09-01T00:56:44Z",
+    "merged_at": "2025-09-01T02:27:51Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "eli-w-king",
+      "type": "User"
+    }
+  },
+  {
+    "number": 264284,
+    "html_url": "https://github.com/microsoft/vscode/pull/264284",
+    "created_at": "2025-09-01T06:32:05Z",
+    "merged_at": "2025-09-01T07:37:55Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "bpasero",
+      "type": "User"
+    }
+  },
+  {
+    "number": 264289,
+    "html_url": "https://github.com/microsoft/vscode/pull/264289",
+    "created_at": "2025-09-01T07:24:02Z",
+    "merged_at": "2025-09-01T07:38:41Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "chrmarti",
+      "type": "User"
+    }
+  },
+  {
+    "number": 264292,
+    "html_url": "https://github.com/microsoft/vscode/pull/264292",
+    "created_at": "2025-09-01T07:49:58Z",
+    "merged_at": "2025-09-01T08:07:38Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "justschen",
+      "type": "User"
+    }
+  },
+  {
+    "number": 264296,
+    "html_url": "https://github.com/microsoft/vscode/pull/264296",
+    "created_at": "2025-09-01T08:13:50Z",
+    "merged_at": "2025-09-01T08:25:47Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "bpasero",
+      "type": "User"
+    }
+  },
+  {
+    "number": 264310,
+    "html_url": "https://github.com/microsoft/vscode/pull/264310",
+    "created_at": "2025-09-01T09:29:00Z",
+    "merged_at": "2025-09-01T09:51:23Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "sandy081",
+      "type": "User"
+    }
+  },
+  {
+    "number": 264319,
+    "html_url": "https://github.com/microsoft/vscode/pull/264319",
+    "created_at": "2025-09-01T11:00:06Z",
+    "merged_at": "2025-09-01T11:21:14Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "sandy081",
+      "type": "User"
+    }
+  },
+  {
+    "number": 264331,
+    "html_url": "https://github.com/microsoft/vscode/pull/264331",
+    "created_at": "2025-09-01T13:29:35Z",
+    "merged_at": "2025-09-01T13:41:25Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "bpasero",
+      "type": "User"
+    }
+  },
+  {
+    "number": 264333,
+    "html_url": "https://github.com/microsoft/vscode/pull/264333",
+    "created_at": "2025-09-01T13:38:18Z",
+    "merged_at": "2025-09-01T13:58:47Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "chrmarti",
+      "type": "User"
+    }
+  },
+  {
+    "number": 264337,
+    "html_url": "https://github.com/microsoft/vscode/pull/264337",
+    "created_at": "2025-09-01T13:55:17Z",
+    "merged_at": "2025-09-01T14:07:14Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "sandy081",
+      "type": "User"
+    }
+  },
+  {
+    "number": 264342,
+    "html_url": "https://github.com/microsoft/vscode/pull/264342",
+    "created_at": "2025-09-01T14:13:03Z",
+    "merged_at": "2025-09-01T14:27:36Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "sandy081",
+      "type": "User"
+    }
+  },
+  {
+    "number": 264343,
+    "html_url": "https://github.com/microsoft/vscode/pull/264343",
+    "created_at": "2025-09-01T14:18:20Z",
+    "merged_at": "2025-09-01T15:11:26Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "bpasero",
+      "type": "User"
+    }
+  },
+  {
+    "number": 264344,
+    "html_url": "https://github.com/microsoft/vscode/pull/264344",
+    "created_at": "2025-09-01T14:20:56Z",
+    "merged_at": "2025-09-01T14:41:16Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "sandy081",
+      "type": "User"
+    }
+  },
+  {
+    "number": 264345,
+    "html_url": "https://github.com/microsoft/vscode/pull/264345",
+    "created_at": "2025-09-01T14:21:22Z",
+    "merged_at": "2025-09-01T17:26:00Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "chrmarti",
+      "type": "User"
+    }
+  },
+  {
+    "number": 264352,
+    "html_url": "https://github.com/microsoft/vscode/pull/264352",
+    "created_at": "2025-09-01T15:21:30Z",
+    "merged_at": "2025-09-01T15:38:37Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "mrleemurray",
+      "type": "User"
+    }
+  },
+  {
+    "number": 264355,
+    "html_url": "https://github.com/microsoft/vscode/pull/264355",
+    "created_at": "2025-09-01T15:35:36Z",
+    "merged_at": "2025-09-01T15:47:10Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "mrleemurray",
+      "type": "User"
+    }
+  },
+  {
+    "number": 264362,
+    "html_url": "https://github.com/microsoft/vscode/pull/264362",
+    "created_at": "2025-09-01T16:03:37Z",
+    "merged_at": "2025-09-01T16:57:30Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "Copilot",
+      "type": "Bot"
+    }
+  },
+  {
+    "number": 264364,
+    "html_url": "https://github.com/microsoft/vscode/pull/264364",
+    "created_at": "2025-09-01T16:20:04Z",
+    "merged_at": "2025-09-01T16:53:26Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "sandy081",
+      "type": "User"
+    }
+  },
+  {
+    "number": 264369,
+    "html_url": "https://github.com/microsoft/vscode/pull/264369",
+    "created_at": "2025-09-01T16:53:28Z",
+    "merged_at": "2025-09-01T17:08:48Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "connor4312",
+      "type": "User"
+    }
+  },
+  {
+    "number": 264386,
+    "html_url": "https://github.com/microsoft/vscode/pull/264386",
+    "created_at": "2025-09-01T19:05:47Z",
+    "merged_at": "2025-09-01T19:17:30Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "bhavyaus",
+      "type": "User"
+    }
+  },
+  {
+    "number": 264414,
+    "html_url": "https://github.com/microsoft/vscode/pull/264414",
+    "created_at": "2025-09-01T21:05:49Z",
+    "merged_at": "2025-09-05T10:58:51Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "aeschli",
+      "type": "User"
+    }
+  },
+  {
+    "number": 264453,
+    "html_url": "https://github.com/microsoft/vscode/pull/264453",
+    "created_at": "2025-09-02T05:50:24Z",
+    "merged_at": "2025-09-02T06:40:21Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "bhavyaus",
+      "type": "User"
+    }
+  },
+  {
+    "number": 264469,
+    "html_url": "https://github.com/microsoft/vscode/pull/264469",
+    "created_at": "2025-09-02T08:08:01Z",
+    "merged_at": "2025-09-02T08:19:35Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "lszomoru",
+      "type": "User"
+    }
+  },
+  {
+    "number": 264471,
+    "html_url": "https://github.com/microsoft/vscode/pull/264471",
+    "created_at": "2025-09-02T08:12:33Z",
+    "merged_at": "2025-09-02T16:33:19Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "justschen",
+      "type": "User"
+    }
+  },
+  {
+    "number": 264513,
+    "html_url": "https://github.com/microsoft/vscode/pull/264513",
+    "created_at": "2025-09-02T10:04:36Z",
+    "merged_at": "2025-09-02T11:55:18Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "Tyriar",
+      "type": "User"
+    }
+  },
+  {
+    "number": 264524,
+    "html_url": "https://github.com/microsoft/vscode/pull/264524",
+    "created_at": "2025-09-02T10:50:11Z",
+    "merged_at": "2025-09-02T11:54:26Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "Tyriar",
+      "type": "User"
+    }
+  },
+  {
+    "number": 264582,
+    "html_url": "https://github.com/microsoft/vscode/pull/264582",
+    "created_at": "2025-09-02T14:40:29Z",
+    "merged_at": "2025-09-02T14:52:06Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "digitarald",
+      "type": "User"
+    }
+  },
+  {
+    "number": 264604,
+    "html_url": "https://github.com/microsoft/vscode/pull/264604",
+    "created_at": "2025-09-02T15:57:29Z",
+    "merged_at": "2025-09-02T16:18:53Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "anthonykim1",
+      "type": "User"
+    }
+  },
+  {
+    "number": 264611,
+    "html_url": "https://github.com/microsoft/vscode/pull/264611",
+    "created_at": "2025-09-02T16:18:34Z",
+    "merged_at": "2025-09-02T21:14:58Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "justschen",
+      "type": "User"
+    }
+  },
+  {
+    "number": 264614,
+    "html_url": "https://github.com/microsoft/vscode/pull/264614",
+    "created_at": "2025-09-02T16:33:03Z",
+    "merged_at": "2025-09-03T06:10:34Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "Copilot",
+      "type": "Bot"
+    }
+  },
+  {
+    "number": 264726,
+    "html_url": "https://github.com/microsoft/vscode/pull/264726",
+    "created_at": "2025-09-02T19:57:00Z",
+    "merged_at": "2025-09-02T20:17:24Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "alexdima",
+      "type": "User"
+    }
+  },
+  {
+    "number": 264739,
+    "html_url": "https://github.com/microsoft/vscode/pull/264739",
+    "created_at": "2025-09-02T20:46:43Z",
+    "merged_at": "2025-09-02T20:58:40Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "Tyriar",
+      "type": "User"
+    }
+  },
+  {
+    "number": 264746,
+    "html_url": "https://github.com/microsoft/vscode/pull/264746",
+    "created_at": "2025-09-02T20:51:30Z",
+    "merged_at": "2025-09-02T21:06:41Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "joshspicer",
+      "type": "User"
+    }
+  },
+  {
+    "number": 264763,
+    "html_url": "https://github.com/microsoft/vscode/pull/264763",
+    "created_at": "2025-09-02T21:23:39Z",
+    "merged_at": "2025-09-02T22:12:59Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "connor4312",
+      "type": "User"
+    }
+  },
+  {
+    "number": 264764,
+    "html_url": "https://github.com/microsoft/vscode/pull/264764",
+    "created_at": "2025-09-02T21:24:45Z",
+    "merged_at": "2025-09-02T22:08:28Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "meganrogge",
+      "type": "User"
+    }
+  },
+  {
+    "number": 264769,
+    "html_url": "https://github.com/microsoft/vscode/pull/264769",
+    "created_at": "2025-09-02T21:38:17Z",
+    "merged_at": "2025-09-02T21:58:35Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "mjbvz",
+      "type": "User"
+    }
+  },
+  {
+    "number": 264771,
+    "html_url": "https://github.com/microsoft/vscode/pull/264771",
+    "created_at": "2025-09-02T21:40:26Z",
+    "merged_at": "2025-09-02T21:52:26Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "justschen",
+      "type": "User"
+    }
+  },
+  {
+    "number": 264773,
+    "html_url": "https://github.com/microsoft/vscode/pull/264773",
+    "created_at": "2025-09-02T21:46:15Z",
+    "merged_at": "2025-09-02T22:10:30Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "mjbvz",
+      "type": "User"
+    }
+  },
+  {
+    "number": 264777,
+    "html_url": "https://github.com/microsoft/vscode/pull/264777",
+    "created_at": "2025-09-02T21:58:09Z",
+    "merged_at": "2025-09-02T22:14:15Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "mjbvz",
+      "type": "User"
+    }
+  },
+  {
+    "number": 264778,
+    "html_url": "https://github.com/microsoft/vscode/pull/264778",
+    "created_at": "2025-09-02T21:59:24Z",
+    "merged_at": "2025-09-04T01:05:56Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "Copilot",
+      "type": "Bot"
+    }
+  },
+  {
+    "number": 264785,
+    "html_url": "https://github.com/microsoft/vscode/pull/264785",
+    "created_at": "2025-09-02T22:15:43Z",
+    "merged_at": "2025-09-02T22:28:03Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "TylerLeonhardt",
+      "type": "User"
+    }
+  },
+  {
+    "number": 264788,
+    "html_url": "https://github.com/microsoft/vscode/pull/264788",
+    "created_at": "2025-09-02T22:38:35Z",
+    "merged_at": "2025-09-02T23:48:02Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "joshspicer",
+      "type": "User"
+    }
+  },
+  {
+    "number": 264791,
+    "html_url": "https://github.com/microsoft/vscode/pull/264791",
+    "created_at": "2025-09-02T22:52:33Z",
+    "merged_at": "2025-09-05T23:03:23Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "connor4312",
+      "type": "User"
+    }
+  },
+  {
+    "number": 264792,
+    "html_url": "https://github.com/microsoft/vscode/pull/264792",
+    "created_at": "2025-09-02T22:56:59Z",
+    "merged_at": "2025-09-02T23:47:03Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "joshspicer",
+      "type": "User"
+    }
+  },
+  {
+    "number": 264796,
+    "html_url": "https://github.com/microsoft/vscode/pull/264796",
+    "created_at": "2025-09-02T23:04:31Z",
+    "merged_at": "2025-09-02T23:45:30Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "rebornix",
+      "type": "User"
+    }
+  },
+  {
+    "number": 264797,
+    "html_url": "https://github.com/microsoft/vscode/pull/264797",
+    "created_at": "2025-09-02T23:10:19Z",
+    "merged_at": "2025-09-03T04:31:28Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "Copilot",
+      "type": "Bot"
+    }
+  },
+  {
+    "number": 264801,
+    "html_url": "https://github.com/microsoft/vscode/pull/264801",
+    "created_at": "2025-09-02T23:22:44Z",
+    "merged_at": "2025-09-03T16:49:40Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "joshspicer",
+      "type": "User"
+    }
+  },
+  {
+    "number": 264802,
+    "html_url": "https://github.com/microsoft/vscode/pull/264802",
+    "created_at": "2025-09-02T23:33:30Z",
+    "merged_at": "2025-09-02T23:46:07Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "mjbvz",
+      "type": "User"
+    }
+  },
+  {
+    "number": 264803,
+    "html_url": "https://github.com/microsoft/vscode/pull/264803",
+    "created_at": "2025-09-02T23:44:07Z",
+    "merged_at": "2025-09-03T16:13:35Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "joshspicer",
+      "type": "User"
+    }
+  },
+  {
+    "number": 264804,
+    "html_url": "https://github.com/microsoft/vscode/pull/264804",
+    "created_at": "2025-09-02T23:46:44Z",
+    "merged_at": "2025-09-03T00:35:40Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "osortega",
+      "type": "User"
+    }
+  },
+  {
+    "number": 264806,
+    "html_url": "https://github.com/microsoft/vscode/pull/264806",
+    "created_at": "2025-09-03T00:14:24Z",
+    "merged_at": "2025-09-03T18:15:37Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "mjbvz",
+      "type": "User"
+    }
+  },
+  {
+    "number": 264819,
+    "html_url": "https://github.com/microsoft/vscode/pull/264819",
+    "created_at": "2025-09-03T01:24:57Z",
+    "merged_at": "2025-09-03T01:49:30Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "justschen",
+      "type": "User"
+    }
+  },
+  {
+    "number": 264836,
+    "html_url": "https://github.com/microsoft/vscode/pull/264836",
+    "created_at": "2025-09-03T03:34:12Z",
+    "merged_at": "2025-09-04T09:35:19Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "digitarald",
+      "type": "User"
+    }
+  },
+  {
+    "number": 264841,
+    "html_url": "https://github.com/microsoft/vscode/pull/264841",
+    "created_at": "2025-09-03T04:30:19Z",
+    "merged_at": "2025-09-03T05:01:04Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "DonJayamanne",
+      "type": "User"
+    }
+  },
+  {
+    "number": 264859,
+    "html_url": "https://github.com/microsoft/vscode/pull/264859",
+    "created_at": "2025-09-03T06:58:14Z",
+    "merged_at": "2025-09-03T07:58:13Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "justschen",
+      "type": "User"
+    }
+  },
+  {
+    "number": 264864,
+    "html_url": "https://github.com/microsoft/vscode/pull/264864",
+    "created_at": "2025-09-03T07:34:59Z",
+    "merged_at": "2025-09-03T10:59:36Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "Copilot",
+      "type": "Bot"
+    }
+  },
+  {
+    "number": 264884,
+    "html_url": "https://github.com/microsoft/vscode/pull/264884",
+    "created_at": "2025-09-03T09:35:55Z",
+    "merged_at": "2025-09-03T09:47:43Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "lszomoru",
+      "type": "User"
+    }
+  },
+  {
+    "number": 264891,
+    "html_url": "https://github.com/microsoft/vscode/pull/264891",
+    "created_at": "2025-09-03T10:00:47Z",
+    "merged_at": "2025-09-03T10:12:25Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "sandy081",
+      "type": "User"
+    }
+  },
+  {
+    "number": 264895,
+    "html_url": "https://github.com/microsoft/vscode/pull/264895",
+    "created_at": "2025-09-03T10:33:45Z",
+    "merged_at": "2025-09-03T10:45:13Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "hediet",
+      "type": "User"
+    }
+  },
+  {
+    "number": 264896,
+    "html_url": "https://github.com/microsoft/vscode/pull/264896",
+    "created_at": "2025-09-03T10:37:33Z",
+    "merged_at": "2025-09-03T10:57:55Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "lszomoru",
+      "type": "User"
+    }
+  },
+  {
+    "number": 264919,
+    "html_url": "https://github.com/microsoft/vscode/pull/264919",
+    "created_at": "2025-09-03T13:09:41Z",
+    "merged_at": "2025-09-03T13:21:10Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "lszomoru",
+      "type": "User"
+    }
+  },
+  {
+    "number": 264924,
+    "html_url": "https://github.com/microsoft/vscode/pull/264924",
+    "created_at": "2025-09-03T13:32:43Z",
+    "merged_at": "2025-09-03T13:44:21Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "lszomoru",
+      "type": "User"
+    }
+  },
+  {
+    "number": 264926,
+    "html_url": "https://github.com/microsoft/vscode/pull/264926",
+    "created_at": "2025-09-03T13:34:17Z",
+    "merged_at": "2025-09-03T13:45:53Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "aeschli",
+      "type": "User"
+    }
+  },
+  {
+    "number": 264927,
+    "html_url": "https://github.com/microsoft/vscode/pull/264927",
+    "created_at": "2025-09-03T13:36:05Z",
+    "merged_at": "2025-09-03T13:48:05Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "Tyriar",
+      "type": "User"
+    }
+  },
+  {
+    "number": 264930,
+    "html_url": "https://github.com/microsoft/vscode/pull/264930",
+    "created_at": "2025-09-03T14:33:13Z",
+    "merged_at": "2025-09-03T14:54:07Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "mrleemurray",
+      "type": "User"
+    }
+  },
+  {
+    "number": 264937,
+    "html_url": "https://github.com/microsoft/vscode/pull/264937",
+    "created_at": "2025-09-03T15:17:24Z",
+    "merged_at": "2025-09-09T15:58:02Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "SimonSiefke",
+      "type": "User"
+    }
+  },
+  {
+    "number": 264945,
+    "html_url": "https://github.com/microsoft/vscode/pull/264945",
+    "created_at": "2025-09-03T16:40:40Z",
+    "merged_at": "2025-09-03T16:52:34Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "meganrogge",
+      "type": "User"
+    }
+  },
+  {
+    "number": 264949,
+    "html_url": "https://github.com/microsoft/vscode/pull/264949",
+    "created_at": "2025-09-03T16:47:37Z",
+    "merged_at": "2025-09-03T17:35:32Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "rzhao271",
+      "type": "User"
+    }
+  },
+  {
+    "number": 264951,
+    "html_url": "https://github.com/microsoft/vscode/pull/264951",
+    "created_at": "2025-09-03T16:55:59Z",
+    "merged_at": "2025-09-03T17:14:31Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "meganrogge",
+      "type": "User"
+    }
+  },
+  {
+    "number": 264954,
+    "html_url": "https://github.com/microsoft/vscode/pull/264954",
+    "created_at": "2025-09-03T17:18:46Z",
+    "merged_at": "2025-09-03T17:30:49Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "TylerLeonhardt",
+      "type": "User"
+    }
+  },
+  {
+    "number": 265002,
+    "html_url": "https://github.com/microsoft/vscode/pull/265002",
+    "created_at": "2025-09-03T18:41:15Z",
+    "merged_at": "2025-09-22T07:34:16Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "SimonSiefke",
+      "type": "User"
+    }
+  },
+  {
+    "number": 265003,
+    "html_url": "https://github.com/microsoft/vscode/pull/265003",
+    "created_at": "2025-09-03T18:42:03Z",
+    "merged_at": "2025-09-05T10:02:34Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "eli-w-king",
+      "type": "User"
+    }
+  },
+  {
+    "number": 265007,
+    "html_url": "https://github.com/microsoft/vscode/pull/265007",
+    "created_at": "2025-09-03T19:17:19Z",
+    "merged_at": "2025-09-03T22:55:48Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "SimonSiefke",
+      "type": "User"
+    }
+  },
+  {
+    "number": 265008,
+    "html_url": "https://github.com/microsoft/vscode/pull/265008",
+    "created_at": "2025-09-03T19:17:51Z",
+    "merged_at": "2025-09-03T19:43:08Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "osortega",
+      "type": "User"
+    }
+  },
+  {
+    "number": 265009,
+    "html_url": "https://github.com/microsoft/vscode/pull/265009",
+    "created_at": "2025-09-03T19:27:10Z",
+    "merged_at": "2025-09-03T19:39:19Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "aeschli",
+      "type": "User"
+    }
+  },
+  {
+    "number": 265014,
+    "html_url": "https://github.com/microsoft/vscode/pull/265014",
+    "created_at": "2025-09-03T20:32:39Z",
+    "merged_at": "2025-09-03T20:44:29Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "joshspicer",
+      "type": "User"
+    }
+  },
+  {
+    "number": 265024,
+    "html_url": "https://github.com/microsoft/vscode/pull/265024",
+    "created_at": "2025-09-03T21:30:58Z",
+    "merged_at": "2025-09-03T21:45:41Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "nguyenchristy",
+      "type": "User"
+    }
+  },
+  {
+    "number": 265030,
+    "html_url": "https://github.com/microsoft/vscode/pull/265030",
+    "created_at": "2025-09-03T21:45:43Z",
+    "merged_at": "2025-09-03T23:49:20Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "mjbvz",
+      "type": "User"
+    }
+  },
+  {
+    "number": 265049,
+    "html_url": "https://github.com/microsoft/vscode/pull/265049",
+    "created_at": "2025-09-03T23:29:18Z",
+    "merged_at": "2025-09-03T23:41:03Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "mjbvz",
+      "type": "User"
+    }
+  },
+  {
+    "number": 265050,
+    "html_url": "https://github.com/microsoft/vscode/pull/265050",
+    "created_at": "2025-09-03T23:37:30Z",
+    "merged_at": "2025-09-04T00:06:10Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "bhavyaus",
+      "type": "User"
+    }
+  },
+  {
+    "number": 265054,
+    "html_url": "https://github.com/microsoft/vscode/pull/265054",
+    "created_at": "2025-09-04T00:04:49Z",
+    "merged_at": "2025-09-04T03:33:11Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "nguyenchristy",
+      "type": "User"
+    }
+  },
+  {
+    "number": 265065,
+    "html_url": "https://github.com/microsoft/vscode/pull/265065",
+    "created_at": "2025-09-04T02:38:09Z",
+    "merged_at": "2025-09-04T02:49:43Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "justschen",
+      "type": "User"
+    }
+  },
+  {
+    "number": 265066,
+    "html_url": "https://github.com/microsoft/vscode/pull/265066",
+    "created_at": "2025-09-04T03:04:48Z",
+    "merged_at": "2025-09-04T03:24:45Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "osortega",
+      "type": "User"
+    }
+  },
+  {
+    "number": 265086,
+    "html_url": "https://github.com/microsoft/vscode/pull/265086",
+    "created_at": "2025-09-04T06:40:32Z",
+    "merged_at": "2025-09-04T06:56:23Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "bpasero",
+      "type": "User"
+    }
+  },
+  {
+    "number": 265087,
+    "html_url": "https://github.com/microsoft/vscode/pull/265087",
+    "created_at": "2025-09-04T06:46:39Z",
+    "merged_at": "2025-09-04T07:06:36Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "bpasero",
+      "type": "User"
+    }
+  },
+  {
+    "number": 265088,
+    "html_url": "https://github.com/microsoft/vscode/pull/265088",
+    "created_at": "2025-09-04T06:51:32Z",
+    "merged_at": "2025-09-04T07:03:09Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "bpasero",
+      "type": "User"
+    }
+  },
+  {
+    "number": 265089,
+    "html_url": "https://github.com/microsoft/vscode/pull/265089",
+    "created_at": "2025-09-04T06:52:33Z",
+    "merged_at": "2025-09-04T07:05:38Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "justschen",
+      "type": "User"
+    }
+  },
+  {
+    "number": 265090,
+    "html_url": "https://github.com/microsoft/vscode/pull/265090",
+    "created_at": "2025-09-04T06:55:45Z",
+    "merged_at": "2025-09-04T07:10:19Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "bpasero",
+      "type": "User"
+    }
+  },
+  {
+    "number": 265097,
+    "html_url": "https://github.com/microsoft/vscode/pull/265097",
+    "created_at": "2025-09-04T07:30:02Z",
+    "merged_at": "2025-09-04T07:42:01Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "bpasero",
+      "type": "User"
+    }
+  },
+  {
+    "number": 265101,
+    "html_url": "https://github.com/microsoft/vscode/pull/265101",
+    "created_at": "2025-09-04T08:55:16Z",
+    "merged_at": "2025-09-04T09:23:57Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "alexdima",
+      "type": "User"
+    }
+  },
+  {
+    "number": 265105,
+    "html_url": "https://github.com/microsoft/vscode/pull/265105",
+    "created_at": "2025-09-04T09:33:25Z",
+    "merged_at": "2025-09-04T09:51:40Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "aeschli",
+      "type": "User"
+    }
+  },
+  {
+    "number": 265111,
+    "html_url": "https://github.com/microsoft/vscode/pull/265111",
+    "created_at": "2025-09-04T09:54:15Z",
+    "merged_at": "2025-09-04T10:06:03Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "hediet",
+      "type": "User"
+    }
+  },
+  {
+    "number": 265121,
+    "html_url": "https://github.com/microsoft/vscode/pull/265121",
+    "created_at": "2025-09-04T11:04:49Z",
+    "merged_at": "2025-09-04T11:27:21Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "bpasero",
+      "type": "User"
+    }
+  },
+  {
+    "number": 265130,
+    "html_url": "https://github.com/microsoft/vscode/pull/265130",
+    "created_at": "2025-09-04T11:42:19Z",
+    "merged_at": "2025-09-04T11:54:10Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "mrleemurray",
+      "type": "User"
+    }
+  },
+  {
+    "number": 265131,
+    "html_url": "https://github.com/microsoft/vscode/pull/265131",
+    "created_at": "2025-09-04T11:46:01Z",
+    "merged_at": "2025-09-04T20:20:51Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "ttttotem",
+      "type": "User"
+    }
+  },
+  {
+    "number": 265137,
+    "html_url": "https://github.com/microsoft/vscode/pull/265137",
+    "created_at": "2025-09-04T12:19:49Z",
+    "merged_at": "2025-09-04T13:13:05Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "bpasero",
+      "type": "User"
+    }
+  },
+  {
+    "number": 265140,
+    "html_url": "https://github.com/microsoft/vscode/pull/265140",
+    "created_at": "2025-09-04T12:53:42Z",
+    "merged_at": "2025-09-04T13:05:30Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "sandy081",
+      "type": "User"
+    }
+  },
+  {
+    "number": 265143,
+    "html_url": "https://github.com/microsoft/vscode/pull/265143",
+    "created_at": "2025-09-04T13:10:25Z",
+    "merged_at": "2025-09-08T14:55:03Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "Tyriar",
+      "type": "User"
+    }
+  },
+  {
+    "number": 265144,
+    "html_url": "https://github.com/microsoft/vscode/pull/265144",
+    "created_at": "2025-09-04T13:20:02Z",
+    "merged_at": "2025-09-05T11:14:35Z",
+    "search_stratum": "without_copilot",
+    "user": {
+      "login": "bpasero",
+      "type": "User"
+    }
+  }
+]
