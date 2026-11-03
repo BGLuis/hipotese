@@ -4,3 +4,6 @@ node_modules/
 tmp/
 *.log
 *.inspect.ndjson
+dashboard/dist/
+dashboard/public/data/
+*.tsbuildinfo
