@@ -1,0 +1,10 @@
+:root { font-family: system-ui, sans-serif; color: #111827; }
+body { margin: 0; background: #f8fafc; }
+main { max-width: 1000px; margin: 0 auto; padding: 24px 16px 64px; }
+section { background: #fff; border: 1px solid #e5e7eb; border-radius: 8px; padding: 16px 20px; margin-top: 16px; }
+h1 { margin-bottom: 4px; }
+h2 { margin-top: 0; }
+.sub { color: #4b5563; font-size: 0.9rem; }
+table { border-collapse: collapse; width: 100%; }
+th, td { text-align: left; padding: 8px 10px; border-bottom: 1px solid #e5e7eb; }
+input { width: 100px; padding: 4px 6px; }
