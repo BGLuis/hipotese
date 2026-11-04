@@ -1,0 +1,53 @@
+{
+  "versao": 1,
+  "entrada": {
+    "arquivo": "data/prs_reais.json",
+    "sha256": "213c32bd4c258499e1eed8610c17bf58840110f61674f8ca7f3e33a813de8736"
+  },
+  "configuracao": {
+    "semente": 42,
+    "repeticoes": 5000,
+    "alfa": 0.05
+  },
+  "modelo": {
+    "distribuicao": "lognormal",
+    "unidade": "horas",
+    "gerador": "mulberry32 + Box-Muller",
+    "ajuste": "média e desvio padrão amostral dos logaritmos naturais",
+    "parametros": {
+      "A": {
+        "mu": 0.855745782680207,
+        "sigma": 2.6684526052425213
+      },
+      "B": {
+        "mu": -0.7127746713631428,
+        "sigma": 1.2435631389118227
+      }
+    },
+    "conjunta": {
+      "mu": 0.07148555565853207,
+      "sigma": 2.2103355648337777
+    },
+    "nA": 30,
+    "nB": 30,
+    "h0": "Grupos independentes da mesma lognormal ajustada à base conjunta"
+  },
+  "exemplo": {
+    "welch": {
+      "estatistica": 2.060217140211133,
+      "grausLiberdade": 29.024018013612107,
+      "pValor": 0.048443001071724244,
+      "rejeitaH0": true
+    },
+    "mannWhitney": {
+      "estatistica": 584,
+      "pValor": 0.04841349946481372,
+      "rejeitaH0": true
+    }
+  },
+  "interpretacao": "Exemplo simulado; não demonstra causalidade nem superioridade de um teste. Não rejeitar H0 não prova igualdade.",
+  "metodos": {
+    "welch": "Bicaudal, variâncias desiguais, graus de liberdade de Welch-Satterthwaite",
+    "mannWhitney": "Bicaudal, aproximação normal, correções de empates e continuidade; U do grupo A"
+  }
+}

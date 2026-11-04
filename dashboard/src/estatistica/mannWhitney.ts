@@ -1,4 +1,5 @@
 import { normalSf } from './distribuicoes';
+import { validarAmostra } from './validacao';
 import type { ResultadoTeste } from './welch';
 
 /** Postos médios (empates recebem a média) e soma de (t³ - t) dos grupos de empate. */
@@ -21,6 +22,8 @@ function postos(valores: readonly number[]): { postos: number[]; somaEmpates: nu
 
 /** Bicaudal, aproximação normal com correção de empates e de continuidade (igual ao `method='asymptotic'` do SciPy). */
 export function mannWhitney(a: readonly number[], b: readonly number[]): ResultadoTeste {
+  validarAmostra(a);
+  validarAmostra(b);
   const n1 = a.length;
   const n2 = b.length;
   const n = n1 + n2;
@@ -30,6 +33,7 @@ export function mannWhitney(a: readonly number[], b: readonly number[]): Resulta
   const u2 = n1 * n2 - u1;
   const media = (n1 * n2) / 2;
   const desvio = Math.sqrt(((n1 * n2) / 12) * (n + 1 - somaEmpates / (n * (n - 1))));
+  if (desvio === 0) return { estatistica: u1, pValor: 1 };
   const z = (Math.max(u1, u2) - media - 0.5) / desvio;
   return { estatistica: u1, pValor: Math.min(1, 2 * normalSf(z)) };
 }

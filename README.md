@@ -28,6 +28,8 @@ O projeto reúne a coleta dos dados reais pela API do GitHub (scripts em Python,
 
 Site hospedado: <https://dashboard-iti2.vercel.app/>
 
+Versão com a entrega da simulação no A.R.S.E.N.A.L: <https://arsenal.dev.br/hipotese/>
+
 # 📋 Motivo
 
 Trabalho da disciplina Laboratório de Medição e Experimentação em Engenharia de Software.
@@ -75,6 +77,20 @@ Trabalho da disciplina Laboratório de Medição e Experimentação em Engenhari
    pip install -r requirements.txt
    python scripts/reproduzir.py
    ```
+
+## Simulação inicial e aplicação dos dois testes
+
+Na pasta `dashboard`, após `npm ci`, execute:
+
+```sh
+npm run simular
+```
+
+O comando gera os dados simulados e aplica **Welch e Mann-Whitney**, usando a mesma lógica do dashboard. Exporta CSVs e um resumo JSON em `resultados/simulacao/`, com semente 42, alfa de 5% e 5.000 repetições sob H₀. Não precisa de acesso à API do GitHub.
+
+Veja [metodologia, parâmetros, resultados e opções de execução](docs/simulacao_inicial.md). Para reproduzir as versões instaladas, use Node.js 24 ou superior e `npm ci`.
+
+Veja também a [conferência dos requisitos do enunciado por sprint](docs/conferencia_enunciado.md).
 
 # 🤝 Contribuidores
 

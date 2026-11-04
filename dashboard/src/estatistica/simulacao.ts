@@ -1,4 +1,5 @@
 import { welch } from './welch';
+import { validarAmostra, validarInteiro } from './validacao';
 
 export type Gerador = () => number;
 
@@ -9,6 +10,8 @@ export interface ParametrosLognormal {
 
 /** PRNG determinístico (mulberry32): a mesma semente reproduz a mesma simulação. */
 export function criarGerador(semente: number): Gerador {
+  validarInteiro(semente, 0, 'Semente');
+  if (semente > 0xffffffff) throw new RangeError('Semente deve caber em 32 bits sem sinal');
   let estado = semente >>> 0;
   return () => {
     estado = (estado + 0x6d2b79f5) >>> 0;
@@ -25,6 +28,8 @@ function normalPadrao(rng: Gerador): number {
 }
 
 export function estimarLognormal(x: readonly number[]): ParametrosLognormal {
+  validarAmostra(x);
+  if (x.some((v) => v <= 0)) throw new RangeError('O ajuste lognormal exige valores positivos');
   const logs = x.map(Math.log);
   const mu = logs.reduce((s, v) => s + v, 0) / logs.length;
   const variancia = logs.reduce((s, v) => s + (v - mu) ** 2, 0) / (logs.length - 1);
@@ -32,7 +37,15 @@ export function estimarLognormal(x: readonly number[]): ParametrosLognormal {
 }
 
 export function gerarLognormal(p: ParametrosLognormal, n: number, rng: Gerador): number[] {
-  return Array.from({ length: n }, () => Math.exp(p.mu + p.sigma * normalPadrao(rng)));
+  validarInteiro(n, 2, 'Tamanho da amostra');
+  if (!Number.isFinite(p.mu) || !Number.isFinite(p.sigma) || p.sigma < 0) {
+    throw new RangeError('Parâmetros lognormais inválidos');
+  }
+  const amostra = Array.from({ length: n }, () => Math.exp(p.mu + p.sigma * normalPadrao(rng)));
+  if (amostra.some((v) => !Number.isFinite(v) || v <= 0)) {
+    throw new RangeError('A geração lognormal excedeu a precisão numérica');
+  }
+  return amostra;
 }
 
 /** Estatística t de Welch repetida com as duas amostras vindas da mesma distribuição (H0 verdadeira). */
@@ -43,6 +56,7 @@ export function distribuicaoNula(
   repeticoes: number,
   rng: Gerador,
 ): number[] {
+  validarInteiro(repeticoes, 1, 'Repetições');
   return Array.from({ length: repeticoes }, () =>
     welch(gerarLognormal(p, nA, rng), gerarLognormal(p, nB, rng)).estatistica,
   );
