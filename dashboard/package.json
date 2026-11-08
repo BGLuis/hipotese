@@ -11,6 +11,7 @@
     "typecheck": "tsc --noEmit",
     "test": "vitest run",
     "simular": "tsx scripts/simular.ts",
+    "simular:base": "tsx scripts/simular-base.ts",
     "servir": "vite preview --host 127.0.0.1 --strictPort --base /hipotese/"
   },
   "dependencies": {

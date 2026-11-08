@@ -1,0 +1,62 @@
+[
+  {
+    "cenario": "base",
+    "teste": "welch",
+    "tamanho_efeito": 0,
+    "taxa_rejeicao": 0.0186
+  },
+  {
+    "cenario": "base",
+    "teste": "mann_whitney",
+    "tamanho_efeito": 0,
+    "taxa_rejeicao": 0.0442
+  },
+  {
+    "cenario": "base",
+    "teste": "welch",
+    "tamanho_efeito": 10,
+    "taxa_rejeicao": 0.0172
+  },
+  {
+    "cenario": "base",
+    "teste": "mann_whitney",
+    "tamanho_efeito": 10,
+    "taxa_rejeicao": 0.0516
+  },
+  {
+    "cenario": "base",
+    "teste": "welch",
+    "tamanho_efeito": 20,
+    "taxa_rejeicao": 0.0178
+  },
+  {
+    "cenario": "base",
+    "teste": "mann_whitney",
+    "tamanho_efeito": 20,
+    "taxa_rejeicao": 0.0579
+  },
+  {
+    "cenario": "base",
+    "teste": "welch",
+    "tamanho_efeito": 40,
+    "taxa_rejeicao": 0.0235
+  },
+  {
+    "cenario": "base",
+    "teste": "mann_whitney",
+    "tamanho_efeito": 40,
+    "taxa_rejeicao": 0.0876
+  },
+  {
+    "cenario": "base",
+    "teste": "welch",
+    "tamanho_efeito": 60,
+    "taxa_rejeicao": 0.0324
+  },
+  {
+    "cenario": "base",
+    "teste": "mann_whitney",
+    "tamanho_efeito": 60,
+    "taxa_rejeicao": 0.122
+  }
+]
