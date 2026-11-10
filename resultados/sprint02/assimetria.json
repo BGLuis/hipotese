@@ -1,0 +1,62 @@
+[
+  {
+    "cenario": "assimetria",
+    "teste": "welch",
+    "tamanho_efeito": 0,
+    "taxa_rejeicao": 0.0139
+  },
+  {
+    "cenario": "assimetria",
+    "teste": "mann_whitney",
+    "tamanho_efeito": 0,
+    "taxa_rejeicao": 0.0442
+  },
+  {
+    "cenario": "assimetria",
+    "teste": "welch",
+    "tamanho_efeito": 10,
+    "taxa_rejeicao": 0.0128
+  },
+  {
+    "cenario": "assimetria",
+    "teste": "mann_whitney",
+    "tamanho_efeito": 10,
+    "taxa_rejeicao": 0.0502
+  },
+  {
+    "cenario": "assimetria",
+    "teste": "welch",
+    "tamanho_efeito": 20,
+    "taxa_rejeicao": 0.0122
+  },
+  {
+    "cenario": "assimetria",
+    "teste": "mann_whitney",
+    "tamanho_efeito": 20,
+    "taxa_rejeicao": 0.0546
+  },
+  {
+    "cenario": "assimetria",
+    "teste": "welch",
+    "tamanho_efeito": 40,
+    "taxa_rejeicao": 0.0147
+  },
+  {
+    "cenario": "assimetria",
+    "teste": "mann_whitney",
+    "tamanho_efeito": 40,
+    "taxa_rejeicao": 0.0757
+  },
+  {
+    "cenario": "assimetria",
+    "teste": "welch",
+    "tamanho_efeito": 60,
+    "taxa_rejeicao": 0.021
+  },
+  {
+    "cenario": "assimetria",
+    "teste": "mann_whitney",
+    "tamanho_efeito": 60,
+    "taxa_rejeicao": 0.0992
+  }
+]

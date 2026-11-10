@@ -45,4 +45,23 @@ describe('simulação compartilhada da Sprint 2', () => {
       .not.toEqual(simularCenarioSprint02(config).map((linha) => linha.taxa_rejeicao));
     expect(() => simularCenarioSprint02({ ...config, parametros: { mu: 2, sigma: 0 } })).toThrow(RangeError);
   });
+
+  it('valida o formato e integridade da saída do cenário de assimetria da Sprint 2', async () => {
+    const { readFile } = await import('node:fs/promises');
+    const { resolve } = await import('node:path');
+    const caminhoSaida = resolve(__dirname, '../../../resultados/sprint02/assimetria.json');
+    const conteudo = JSON.parse(await readFile(caminhoSaida, 'utf8'));
+    expect(conteudo).toHaveLength(10);
+    for (const linha of conteudo) {
+      expect(linha.cenario).toBe('assimetria');
+      expect(['welch', 'mann_whitney']).toContain(linha.teste);
+      expect([0, 10, 20, 40, 60]).toContain(linha.tamanho_efeito);
+      expect(linha.taxa_rejeicao).toBeGreaterThanOrEqual(0);
+      expect(linha.taxa_rejeicao).toBeLessThanOrEqual(1);
+    }
+    const welchLinhas = conteudo.filter((l: { teste: string }) => l.teste === 'welch');
+    const mwLinhas = conteudo.filter((l: { teste: string }) => l.teste === 'mann_whitney');
+    expect(welchLinhas).toHaveLength(5);
+    expect(mwLinhas).toHaveLength(5);
+  });
 });
