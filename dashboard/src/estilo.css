@@ -8,3 +8,8 @@ h2 { margin-top: 0; }
 table { border-collapse: collapse; width: 100%; }
 th, td { text-align: left; padding: 8px 10px; border-bottom: 1px solid #e5e7eb; }
 input { width: 100px; padding: 4px 6px; }
+.tabela { overflow-x: auto; }
+summary { cursor: pointer; font-weight: 600; }
+.perguntas { padding-left: 1.5rem; }
+.perguntas li { padding: 0.55rem 0; border-bottom: 1px solid #e5e7eb; }
+.perguntas p { margin: 0.55rem 0 0; }

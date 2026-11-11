@@ -28,7 +28,7 @@ O projeto reúne a coleta dos dados reais pela API do GitHub (scripts em Python,
 
 Site hospedado: <https://dashboard-iti2.vercel.app/>
 
-Versão com a entrega da simulação no A.R.S.E.N.A.L: <https://arsenal.dev.br/hipotese/>
+Dashboard do LAB04 no A.R.S.E.N.A.L: <https://arsenal.dev.br/hipotese/>
 
 # 📋 Motivo
 
@@ -91,6 +91,10 @@ O comando gera os dados simulados e aplica **Welch e Mann-Whitney**, usando a me
 Veja [metodologia, parâmetros, resultados e opções de execução](docs/simulacao_inicial.md). Para reproduzir as versões instaladas, use Node.js 24 ou superior e `npm ci`.
 
 Veja também a [conferência dos requisitos do enunciado por sprint](docs/conferencia_enunciado.md).
+
+## Sprint 2 e apresentação
+
+Na pasta `dashboard`, após `npm ci`, use `npm run dev` para abrir o painel com G1 a G4, os testes nos dados reais e as 15 perguntas da apresentação. G3 e G4 usam os resultados versionados. Para regenerá-los com a semente fixa, rode `npm run simular:base` e `npm run simular:alternativo`.
 
 # 🤝 Contribuidores
 
